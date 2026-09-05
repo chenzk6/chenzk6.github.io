@@ -5,9 +5,9 @@
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
     "language": "TypeScript",
-    "stars": 211360,
+    "stars": 212468,
     "starsGained": 0,
-    "forks": 24770,
+    "forks": 24945,
     "topics": [
       "ai-agents",
       "cordis",
@@ -22,9 +22,9 @@
     "url": "https://github.com/anywhere-labs/dsh-desktop",
     "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
     "language": "TypeScript",
-    "stars": 23426,
+    "stars": 23651,
     "starsGained": 0,
-    "forks": 1151,
+    "forks": 1158,
     "topics": [
       "cordis",
       "cordis-plugin",
@@ -43,9 +43,9 @@
     "url": "https://github.com/guillaumemeyer/watermarks-remover",
     "description": "A privacy-first app that strips AI watermarks from content you own.",
     "language": "Python",
-    "stars": 20370,
+    "stars": 20636,
     "starsGained": 0,
-    "forks": 2360,
+    "forks": 2386,
     "topics": [
       "agent-skill",
       "ai",
@@ -71,9 +71,9 @@
     "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
     "language": "Python",
-    "stars": 14389,
+    "stars": 14506,
     "starsGained": 0,
-    "forks": 2547,
+    "forks": 2577,
     "topics": [
       "awesome",
       "awesome-list",
@@ -89,9 +89,9 @@
     "url": "https://github.com/yjh051108/dsh-routing-suite",
     "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
     "language": "JavaScript",
-    "stars": 7061,
+    "stars": 7080,
     "starsGained": 0,
-    "forks": 148,
+    "forks": 149,
     "topics": [
       "ai-agents",
       "cordis",
@@ -102,26 +102,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "sapientinc",
-    "name": "PRAXIST",
-    "url": "https://github.com/sapientinc/PRAXIST",
-    "description": "Autonomous research system for measurable, computer-executable research.",
-    "language": "Python",
-    "stars": 6970,
-    "starsGained": 0,
-    "forks": 521,
-    "topics": [],
-    "category": "AI/ML"
-  },
-  {
     "owner": "zhu1090093659",
     "name": "dsh-web",
     "url": "https://github.com/zhu1090093659/dsh-web",
     "description": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
     "language": "TypeScript",
-    "stars": 6804,
+    "stars": 6889,
     "starsGained": 0,
-    "forks": 443,
+    "forks": 452,
     "topics": [
       "cordis",
       "deepseek-harness",
@@ -133,27 +121,16 @@
     "category": "前端"
   },
   {
-    "owner": "LaoFeng-mouse",
-    "name": "flyingmouse-format",
-    "url": "https://github.com/LaoFeng-mouse/flyingmouse-format",
-    "description": "飞鼠格式 FlyingMouse Format - Windows 免费文件格式转换工具（离线可用，内置 FFmpeg/LibreOffice/Poppler/Tesseract）。图片/文档/表格/PPT/PDF/音视频/WPS 格式互转 + OCR + 批量转换；音频仅支持普通格式。作者：牢蜂（LaoFeng）｜仅供个人免费使用，禁止商业售卖/转卖/套壳",
-    "language": "JavaScript",
-    "stars": 5367,
+    "owner": "sapientinc",
+    "name": "PRAXIST",
+    "url": "https://github.com/sapientinc/PRAXIST",
+    "description": "Autonomous research system for measurable, computer-executable research.",
+    "language": "Python",
+    "stars": 5914,
     "starsGained": 0,
-    "forks": 461,
-    "topics": [
-      "desktop-app",
-      "electron",
-      "ffmpeg",
-      "file-converter",
-      "format-converter",
-      "libreoffice",
-      "ocr",
-      "pdf",
-      "windows",
-      "wps"
-    ],
-    "category": "桌面"
+    "forks": 532,
+    "topics": [],
+    "category": "AI/ML"
   },
   {
     "owner": "MengTo",
@@ -161,9 +138,9 @@
     "url": "https://github.com/MengTo/threeui",
     "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
     "language": "HTML",
-    "stars": 5078,
+    "stars": 5135,
     "starsGained": 0,
-    "forks": 502,
+    "forks": 506,
     "topics": [
       "react",
       "shaders",
@@ -179,9 +156,9 @@
     "url": "https://github.com/s1dashu/ip-as-logo-skill",
     "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
     "language": "",
-    "stars": 4898,
+    "stars": 4936,
     "starsGained": 0,
-    "forks": 243,
+    "forks": 244,
     "topics": [
       "codex",
       "codex-skill",
@@ -197,9 +174,9 @@
     "url": "https://github.com/CopilotKit/OpenBot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "language": "TypeScript",
-    "stars": 4169,
+    "stars": 4268,
     "starsGained": 0,
-    "forks": 509,
+    "forks": 522,
     "topics": [
       "ag-ui",
       "agent-governance",
@@ -217,9 +194,9 @@
     "url": "https://github.com/dataelement/dsh-desktop",
     "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
     "language": "TypeScript",
-    "stars": 4069,
+    "stars": 4190,
     "starsGained": 0,
-    "forks": 215,
+    "forks": 220,
     "topics": [
       "agent",
       "apps",
@@ -234,31 +211,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "dmmulroy",
-    "name": "anti-slop",
-    "url": "https://github.com/dmmulroy/anti-slop",
-    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-    "language": "TypeScript",
-    "stars": 4066,
-    "starsGained": 0,
-    "forks": 89,
-    "topics": [
-      "agent-skills",
-      "linting",
-      "oxlint",
-      "typescript"
-    ],
-    "category": "前端"
-  },
-  {
     "owner": "deeplethe",
     "name": "utopia",
     "url": "https://github.com/deeplethe/utopia",
     "description": "World's first open-source enterprise world model.",
     "language": "Rust",
-    "stars": 3926,
+    "stars": 4088,
     "starsGained": 0,
-    "forks": 333,
+    "forks": 385,
     "topics": [
       "agent-memory",
       "bitemporal",
@@ -279,14 +239,31 @@
     "category": "AI/ML"
   },
   {
+    "owner": "dmmulroy",
+    "name": "anti-slop",
+    "url": "https://github.com/dmmulroy/anti-slop",
+    "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+    "language": "TypeScript",
+    "stars": 4082,
+    "starsGained": 0,
+    "forks": 89,
+    "topics": [
+      "agent-skills",
+      "linting",
+      "oxlint",
+      "typescript"
+    ],
+    "category": "前端"
+  },
+  {
     "owner": "xiaobright",
     "name": "dsh-anchored-standard",
     "url": "https://github.com/xiaobright/dsh-anchored-standard",
     "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
     "language": "JavaScript",
-    "stars": 3826,
+    "stars": 3824,
     "starsGained": 0,
-    "forks": 118,
+    "forks": 119,
     "topics": [
       "deepseek",
       "deepseek-harness",
@@ -296,38 +273,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "b-nnett",
-    "name": "grok-bot-0.18-reconstructed",
-    "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
-    "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-    "language": "TypeScript",
-    "stars": 3480,
-    "starsGained": 0,
-    "forks": 3540,
-    "topics": [],
-    "category": "前端"
-  },
-  {
-    "owner": "yetone",
-    "name": "cumora",
-    "url": "https://github.com/yetone/cumora",
-    "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-    "language": "TypeScript",
-    "stars": 3461,
-    "starsGained": 0,
-    "forks": 433,
-    "topics": [],
-    "category": "前端"
-  },
-  {
     "owner": "Hisn00w",
     "name": "ASu-skills",
     "url": "https://github.com/Hisn00w/ASu-skills",
     "description": "🚀面向求职与开发场景的实用 AI Skills 集合，支持简历优化、岗位投递、面试准备与开发提效。",
     "language": "HTML",
-    "stars": 3363,
+    "stars": 3535,
     "starsGained": 0,
-    "forks": 214,
+    "forks": 222,
     "topics": [],
     "category": "前端"
   },
@@ -337,9 +290,9 @@
     "url": "https://github.com/wang2122/sprix-sage-router",
     "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
     "language": "Python",
-    "stars": 3359,
+    "stars": 3505,
     "starsGained": 0,
-    "forks": 398,
+    "forks": 401,
     "topics": [
       "a2a",
       "agent-orchestration",
@@ -353,14 +306,38 @@
     "category": "AI/ML"
   },
   {
+    "owner": "b-nnett",
+    "name": "grok-bot-0.18-reconstructed",
+    "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+    "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+    "language": "TypeScript",
+    "stars": 3481,
+    "starsGained": 0,
+    "forks": 3543,
+    "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "yetone",
+    "name": "cumora",
+    "url": "https://github.com/yetone/cumora",
+    "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+    "language": "TypeScript",
+    "stars": 3475,
+    "starsGained": 0,
+    "forks": 437,
+    "topics": [],
+    "category": "前端"
+  },
+  {
     "owner": "omdsh-dev",
     "name": "DSH-better-sidebar",
     "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
     "description": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
     "language": "TypeScript",
-    "stars": 3313,
+    "stars": 3339,
     "starsGained": 0,
-    "forks": 289,
+    "forks": 292,
     "topics": [
       "deepseek",
       "deepseek-harness",
@@ -377,9 +354,9 @@
     "url": "https://github.com/dsh-market/dsh-market",
     "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
     "language": "TypeScript",
-    "stars": 3135,
+    "stars": 3198,
     "starsGained": 0,
-    "forks": 165,
+    "forks": 167,
     "topics": [
       "deepseek-harness",
       "dsh-plugin",
@@ -388,46 +365,14 @@
     "category": "前端"
   },
   {
-    "owner": "Leonxlnx",
-    "name": "unlazy",
-    "url": "https://github.com/Leonxlnx/unlazy",
-    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
-    "language": "JavaScript",
-    "stars": 3028,
-    "starsGained": 0,
-    "forks": 194,
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "llm",
-      "productivity",
-      "prompt-engineering",
-      "skill"
-    ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "cordiverse",
-    "name": "paper",
-    "url": "https://github.com/cordiverse/paper",
-    "description": "A Programming Paradigm for Spatiotemporal Composability",
-    "language": "",
-    "stars": 2951,
-    "starsGained": 0,
-    "forks": 141,
-    "topics": [],
-    "category": "其他"
-  },
-  {
     "owner": "crmne",
     "name": "fastpotify",
     "url": "https://github.com/crmne/fastpotify",
     "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
     "language": "Rust",
-    "stars": 2863,
+    "stars": 3095,
     "starsGained": 0,
-    "forks": 118,
+    "forks": 128,
     "topics": [
       "audio",
       "cross-platform",
@@ -449,14 +394,46 @@
     "category": "桌面"
   },
   {
+    "owner": "Leonxlnx",
+    "name": "unlazy",
+    "url": "https://github.com/Leonxlnx/unlazy",
+    "description": "Anti-laziness skill for AI agents. Core: the Depth Tree method, which splits a task N layers deep and gives every leaf the full time budget of the whole task, so effort multiplies with depth. Grounded in 2025-2026 research on model laziness, underthinking and premature completion.",
+    "language": "JavaScript",
+    "stars": 3059,
+    "starsGained": 0,
+    "forks": 199,
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "llm",
+      "productivity",
+      "prompt-engineering",
+      "skill"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "cordiverse",
+    "name": "paper",
+    "url": "https://github.com/cordiverse/paper",
+    "description": "A Programming Paradigm for Spatiotemporal Composability",
+    "language": "",
+    "stars": 2955,
+    "starsGained": 0,
+    "forks": 141,
+    "topics": [],
+    "category": "其他"
+  },
+  {
     "owner": "ccch1mneyyy",
     "name": "dsh-TUI",
     "url": "https://github.com/ccch1mneyyy/dsh-TUI",
     "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
     "language": "TypeScript",
-    "stars": 2818,
+    "stars": 2838,
     "starsGained": 0,
-    "forks": 153,
+    "forks": 156,
     "topics": [
       "claude-code",
       "coding-agent",
@@ -476,23 +453,11 @@
     "url": "https://github.com/vercel-labs/fx",
     "description": "Unix like coding agent",
     "language": "Zig",
-    "stars": 2726,
+    "stars": 2752,
     "starsGained": 0,
-    "forks": 313,
+    "forks": 314,
     "topics": [],
     "category": "工具"
-  },
-  {
-    "owner": "eternityspring",
-    "name": "shuohao-skills",
-    "url": "https://github.com/eternityspring/shuohao-skills",
-    "description": "AI 短剧制作的 skill 集合：拆角色、排大纲、出场景与道具设定、写剧本、切分镜 | Agent skills for AI short-drama production — character bibles, adaptation outlines, art bibles, screenplays, storyboards. Runs in Claude Code & codex.",
-    "language": "JavaScript",
-    "stars": 2629,
-    "starsGained": 0,
-    "forks": 338,
-    "topics": [],
-    "category": "前端"
   },
   {
     "owner": "antirez",
@@ -500,9 +465,9 @@
     "url": "https://github.com/antirez/h3.c",
     "description": "MiniMax H3 inference engine for Mac computers",
     "language": "C",
-    "stars": 2556,
+    "stars": 2568,
     "starsGained": 0,
-    "forks": 195,
+    "forks": 199,
     "topics": [],
     "category": "工具"
   },
@@ -512,83 +477,11 @@
     "url": "https://github.com/gvzdv/claudish-to-english",
     "description": "",
     "language": "Shell",
-    "stars": 2509,
+    "stars": 2525,
     "starsGained": 0,
     "forks": 119,
     "topics": [],
     "category": "DevOps"
-  },
-  {
-    "owner": "amagine-ai",
-    "name": "Amagine3D",
-    "url": "https://github.com/amagine-ai/Amagine3D",
-    "description": "Amagine3D: From hardware requirements to editable 3D designs",
-    "language": "Python",
-    "stars": 2468,
-    "starsGained": 0,
-    "forks": 97,
-    "topics": [],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "XiaoDuoYa",
-    "name": "codex-with-chatgpt",
-    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
-    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "language": "TypeScript",
-    "stars": 2424,
-    "starsGained": 0,
-    "forks": 252,
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "codex",
-      "mcp",
-      "model-context-protocol",
-      "oauth"
-    ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "tobi",
-    "name": "walgit",
-    "url": "https://github.com/tobi/walgit",
-    "description": "",
-    "language": "Rust",
-    "stars": 2416,
-    "starsGained": 0,
-    "forks": 132,
-    "topics": [],
-    "category": "工具"
-  },
-  {
-    "owner": "ShawnPana",
-    "name": "phone-harness",
-    "url": "https://github.com/ShawnPana/phone-harness",
-    "description": "let your agent control your phone",
-    "language": "Python",
-    "stars": 2343,
-    "starsGained": 0,
-    "forks": 223,
-    "topics": [
-      "agent",
-      "ai",
-      "automation",
-      "developer-tools"
-    ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "CYQawa",
-    "name": "YunX",
-    "url": "https://github.com/CYQawa/YunX",
-    "description": "✨一个安卓网盘解析下载app✨",
-    "language": "Kotlin",
-    "stars": 2271,
-    "starsGained": 0,
-    "forks": 122,
-    "topics": [],
-    "category": "移动端"
   },
   {
     "owner": "yanliudesign",
@@ -596,9 +489,9 @@
     "url": "https://github.com/yanliudesign/mono-color-skill",
     "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
     "language": "Python",
-    "stars": 2215,
+    "stars": 2502,
     "starsGained": 0,
-    "forks": 36,
+    "forks": 50,
     "topics": [
       "agent-skill",
       "ai-agent",
@@ -616,12 +509,93 @@
     "category": "AI/ML"
   },
   {
+    "owner": "XiaoDuoYa",
+    "name": "codex-with-chatgpt",
+    "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+    "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+    "language": "TypeScript",
+    "stars": 2485,
+    "starsGained": 0,
+    "forks": 265,
+    "topics": [
+      "ai-agents",
+      "chatgpt",
+      "codex",
+      "mcp",
+      "model-context-protocol",
+      "oauth"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "amagine-ai",
+    "name": "Amagine3D",
+    "url": "https://github.com/amagine-ai/Amagine3D",
+    "description": "Amagine3D: From hardware requirements to editable 3D designs",
+    "language": "Python",
+    "stars": 2472,
+    "starsGained": 0,
+    "forks": 97,
+    "topics": [],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "tobi",
+    "name": "walgit",
+    "url": "https://github.com/tobi/walgit",
+    "description": "",
+    "language": "Rust",
+    "stars": 2427,
+    "starsGained": 0,
+    "forks": 136,
+    "topics": [],
+    "category": "工具"
+  },
+  {
+    "owner": "ShawnPana",
+    "name": "phone-harness",
+    "url": "https://github.com/ShawnPana/phone-harness",
+    "description": "let your agent control your phone",
+    "language": "Python",
+    "stars": 2414,
+    "starsGained": 0,
+    "forks": 236,
+    "topics": [
+      "agent",
+      "ai",
+      "automation",
+      "developer-tools"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "lnkiai",
+    "name": "m3e-canvas",
+    "url": "https://github.com/lnkiai/m3e-canvas",
+    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+    "language": "TypeScript",
+    "stars": 2294,
+    "starsGained": 0,
+    "forks": 169,
+    "topics": [
+      "design-tool",
+      "material-3-expressive",
+      "material-design",
+      "material3",
+      "nextjs",
+      "prompt",
+      "react",
+      "vibe-coding"
+    ],
+    "category": "前端"
+  },
+  {
     "owner": "oil-oil",
     "name": "oil-motion",
     "url": "https://github.com/oil-oil/oil-motion",
     "description": "Create smooth, responsive interactive web animations.",
     "language": "Python",
-    "stars": 2162,
+    "stars": 2171,
     "starsGained": 0,
     "forks": 163,
     "topics": [],
@@ -633,23 +607,11 @@
     "url": "https://github.com/milind-soni/OpenMausBot",
     "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
     "language": "TypeScript",
-    "stars": 2096,
+    "stars": 2122,
     "starsGained": 0,
-    "forks": 383,
+    "forks": 389,
     "topics": [],
     "category": "前端"
-  },
-  {
-    "owner": "xoreaxeaxeax",
-    "name": "skitter-creek-bath-salts",
-    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
-    "language": "C",
-    "stars": 1983,
-    "starsGained": 0,
-    "forks": 158,
-    "topics": [],
-    "category": "工具"
   },
   {
     "owner": "Nanako0129",
@@ -657,9 +619,9 @@
     "url": "https://github.com/Nanako0129/sepia",
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
     "language": "Python",
-    "stars": 1918,
+    "stars": 2115,
     "starsGained": 0,
-    "forks": 116,
+    "forks": 131,
     "topics": [
       "agent-skills",
       "ai-writing",
@@ -677,19 +639,28 @@
     "category": "AI/ML"
   },
   {
-    "owner": "Small-tailqwq",
-    "name": "dsh-deep-whale",
-    "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
-    "description": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
-    "language": "TypeScript",
-    "stars": 1911,
+    "owner": "xoreaxeaxeax",
+    "name": "skitter-creek-bath-salts",
+    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+    "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+    "language": "C",
+    "stars": 1989,
     "starsGained": 0,
-    "forks": 56,
-    "topics": [
-      "dsh",
-      "dsh-plugin"
-    ],
-    "category": "前端"
+    "forks": 158,
+    "topics": [],
+    "category": "工具"
+  },
+  {
+    "owner": "anthropics",
+    "name": "commerce-agents",
+    "url": "https://github.com/anthropics/commerce-agents",
+    "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+    "language": "Python",
+    "stars": 1953,
+    "starsGained": 0,
+    "forks": 325,
+    "topics": [],
+    "category": "AI/ML"
   },
   {
     "owner": "elie222",
@@ -697,9 +668,9 @@
     "url": "https://github.com/elie222/rakazo",
     "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
     "language": "TypeScript",
-    "stars": 1885,
+    "stars": 1935,
     "starsGained": 0,
-    "forks": 320,
+    "forks": 329,
     "topics": [
       "ai-agents",
       "chatgpt",
@@ -714,15 +685,18 @@
     "category": "AI/ML"
   },
   {
-    "owner": "SMNETSTUDIO",
-    "name": "WeChat-AI",
-    "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
-    "description": "WeChat AI - 自托管微信角色扮演对话服务",
+    "owner": "Small-tailqwq",
+    "name": "dsh-deep-whale",
+    "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+    "description": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
     "language": "TypeScript",
-    "stars": 1878,
+    "stars": 1929,
     "starsGained": 0,
-    "forks": 1280,
-    "topics": [],
+    "forks": 56,
+    "topics": [
+      "dsh",
+      "dsh-plugin"
+    ],
     "category": "前端"
   },
   {
@@ -731,7 +705,7 @@
     "url": "https://github.com/zenbu-labs/terminal-code",
     "description": "VS Code in the terminal",
     "language": "TypeScript",
-    "stars": 1870,
+    "stars": 1881,
     "starsGained": 0,
     "forks": 78,
     "topics": [
@@ -748,7 +722,7 @@
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "language": "Zig",
-    "stars": 1864,
+    "stars": 1880,
     "starsGained": 0,
     "forks": 190,
     "topics": [
@@ -775,14 +749,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "kacperkapusciak",
-    "name": "goldie",
-    "url": "https://github.com/kacperkapusciak/goldie",
-    "description": "✨ agentic app store previews and screenshots",
+    "owner": "SMNETSTUDIO",
+    "name": "WeChat-AI",
+    "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+    "description": "WeChat AI - 自托管微信角色扮演对话服务",
     "language": "TypeScript",
-    "stars": 1719,
+    "stars": 1879,
     "starsGained": 0,
-    "forks": 148,
+    "forks": 1282,
     "topics": [],
     "category": "前端"
   },
@@ -790,11 +764,11 @@
     "owner": "nateherkai",
     "name": "scroll-craft",
     "url": "https://github.com/nateherkai/scroll-craft",
-    "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+    "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
     "language": "JavaScript",
-    "stars": 1691,
+    "stars": 1791,
     "starsGained": 0,
-    "forks": 261,
+    "forks": 273,
     "topics": [
       "accessibility",
       "agent-skills",
@@ -815,14 +789,47 @@
     "category": "AI/ML"
   },
   {
+    "owner": "kacperkapusciak",
+    "name": "goldie",
+    "url": "https://github.com/kacperkapusciak/goldie",
+    "description": "✨ agentic app store previews and screenshots",
+    "language": "TypeScript",
+    "stars": 1775,
+    "starsGained": 0,
+    "forks": 150,
+    "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "ApodexAI",
+    "name": "FrontierAgent",
+    "url": "https://github.com/ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "language": "Python",
+    "stars": 1750,
+    "starsGained": 0,
+    "forks": 139,
+    "topics": [
+      "agent-orchestration",
+      "agentic-ai",
+      "agentic-framework",
+      "ai-agents",
+      "harness",
+      "multi-agent",
+      "terminal-agent",
+      "tui"
+    ],
+    "category": "AI/ML"
+  },
+  {
     "owner": "MeteorNOX",
     "name": "DeepSeek-Balance-Whale-Widget",
     "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
     "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
     "language": "JavaScript",
-    "stars": 1688,
+    "stars": 1729,
     "starsGained": 0,
-    "forks": 63,
+    "forks": 65,
     "topics": [
       "cordis",
       "deepseek",
@@ -842,9 +849,9 @@
     "url": "https://github.com/lexmount/moli",
     "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
     "language": "Rust",
-    "stars": 1683,
+    "stars": 1712,
     "starsGained": 0,
-    "forks": 104,
+    "forks": 105,
     "topics": [
       "ai-agents",
       "ai-tools",
@@ -863,26 +870,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "anthropics",
-    "name": "commerce-agents",
-    "url": "https://github.com/anthropics/commerce-agents",
-    "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-    "language": "Python",
-    "stars": 1679,
-    "starsGained": 0,
-    "forks": 270,
-    "topics": [],
-    "category": "AI/ML"
-  },
-  {
     "owner": "dsh-tauri-desk",
     "name": "deepseek-harness-desktop",
     "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
     "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-    "language": "TypeScript",
-    "stars": 1637,
+    "language": "Rust",
+    "stars": 1680,
     "starsGained": 0,
-    "forks": 107,
+    "forks": 108,
     "topics": [
       "deepseek",
       "deepseek-harness",
@@ -893,5 +888,17 @@
       "tauri"
     ],
     "category": "AI/ML"
+  },
+  {
+    "owner": "vvxw",
+    "name": "deploy-vercel",
+    "url": "https://github.com/vvxw/deploy-vercel",
+    "description": "Install Command：npm install",
+    "language": "JavaScript",
+    "stars": 1618,
+    "starsGained": 0,
+    "forks": 335,
+    "topics": [],
+    "category": "前端"
   }
 ]
