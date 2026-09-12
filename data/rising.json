@@ -1,69 +1,13 @@
 [
   {
-    "owner": "deepseek-ai",
-    "name": "deepseek-harness",
-    "url": "https://github.com/deepseek-ai/deepseek-harness",
-    "description": "DeepSeek Harness: Everything is a Plugin.",
-    "language": "TypeScript",
-    "stars": 219568,
-    "starsGained": 0,
-    "forks": 25982,
-    "topics": [
-      "ai-agents",
-      "cordis",
-      "dsh",
-      "dsh-plugin"
-    ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "anywhere-labs",
-    "name": "dsh-desktop",
-    "url": "https://github.com/anywhere-labs/dsh-desktop",
-    "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-    "language": "TypeScript",
-    "stars": 25433,
-    "starsGained": 0,
-    "forks": 1226,
-    "topics": [
-      "cordis",
-      "cordis-plugin",
-      "deepseek",
-      "deepseek-harness",
-      "desktop",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugin-desktop"
-    ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "awesome-dsh-plugin",
-    "name": "awesome-dsh-plugin",
-    "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-    "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-    "language": "Python",
-    "stars": 15252,
-    "starsGained": 0,
-    "forks": 2787,
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "yjh051108",
     "name": "dsh-routing-suite",
     "url": "https://github.com/yjh051108/dsh-routing-suite",
     "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
     "language": "JavaScript",
-    "stars": 7161,
+    "stars": 7169,
     "starsGained": 0,
-    "forks": 164,
+    "forks": 166,
     "topics": [
       "ai-agents",
       "cordis",
@@ -79,9 +23,9 @@
     "url": "https://github.com/sapientinc/PRAXIST",
     "description": "Autonomous research system for measurable, computer-executable research.",
     "language": "Python",
-    "stars": 6557,
+    "stars": 6669,
     "starsGained": 0,
-    "forks": 618,
+    "forks": 637,
     "topics": [],
     "category": "AI/ML"
   },
@@ -91,9 +35,9 @@
     "url": "https://github.com/lnkiai/m3e-canvas",
     "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
     "language": "TypeScript",
-    "stars": 5955,
+    "stars": 6189,
     "starsGained": 0,
-    "forks": 584,
+    "forks": 625,
     "topics": [
       "design-tool",
       "material-3-expressive",
@@ -112,9 +56,9 @@
     "url": "https://github.com/MengTo/threeui",
     "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
     "language": "HTML",
-    "stars": 5543,
+    "stars": 5624,
     "starsGained": 0,
-    "forks": 540,
+    "forks": 545,
     "topics": [
       "react",
       "shaders",
@@ -130,7 +74,7 @@
     "url": "https://github.com/s1dashu/ip-as-logo-skill",
     "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
     "language": "",
-    "stars": 5125,
+    "stars": 5146,
     "starsGained": 0,
     "forks": 258,
     "topics": [
@@ -143,36 +87,14 @@
     "category": "其他"
   },
   {
-    "owner": "dataelement",
-    "name": "dsh-desktop",
-    "url": "https://github.com/dataelement/dsh-desktop",
-    "description": "DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版",
-    "language": "TypeScript",
-    "stars": 5055,
-    "starsGained": 0,
-    "forks": 261,
-    "topics": [
-      "agent",
-      "apps",
-      "deepseek",
-      "deepseek-harness",
-      "deepseek-harness-desktop",
-      "desktop",
-      "dsh-plugins",
-      "dshdesktop",
-      "harness"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "CopilotKit",
     "name": "OpenBot",
     "url": "https://github.com/CopilotKit/OpenBot",
     "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
     "language": "TypeScript",
-    "stars": 4641,
+    "stars": 4745,
     "starsGained": 0,
-    "forks": 582,
+    "forks": 592,
     "topics": [
       "ag-ui",
       "agent-governance",
@@ -190,9 +112,9 @@
     "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
     "language": "TypeScript",
-    "stars": 3972,
+    "stars": 4073,
     "starsGained": 0,
-    "forks": 416,
+    "forks": 429,
     "topics": [
       "ai-agents",
       "chatgpt",
@@ -204,20 +126,15 @@
     "category": "AI/ML"
   },
   {
-    "owner": "xiaobright",
-    "name": "dsh-anchored-standard",
-    "url": "https://github.com/xiaobright/dsh-anchored-standard",
-    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "language": "JavaScript",
-    "stars": 3818,
+    "owner": "amagine-ai",
+    "name": "Amagine3D",
+    "url": "https://github.com/amagine-ai/Amagine3D",
+    "description": "Amagine3D: From hardware requirements to editable 3D designs",
+    "language": "Python",
+    "stars": 4063,
     "starsGained": 0,
-    "forks": 121,
-    "topics": [
-      "deepseek",
-      "deepseek-harness",
-      "dsh-plugin",
-      "llm-agent"
-    ],
+    "forks": 183,
+    "topics": [],
     "category": "AI/ML"
   },
   {
@@ -226,9 +143,9 @@
     "url": "https://github.com/crmne/fastpotify",
     "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
     "language": "Rust",
-    "stars": 3790,
+    "stars": 3840,
     "starsGained": 0,
-    "forks": 177,
+    "forks": 180,
     "topics": [
       "audio",
       "cross-platform",
@@ -250,16 +167,49 @@
     "category": "桌面"
   },
   {
-    "owner": "amagine-ai",
-    "name": "Amagine3D",
-    "url": "https://github.com/amagine-ai/Amagine3D",
-    "description": "Amagine3D: From hardware requirements to editable 3D designs",
-    "language": "Python",
-    "stars": 3706,
+    "owner": "xiaobright",
+    "name": "dsh-anchored-standard",
+    "url": "https://github.com/xiaobright/dsh-anchored-standard",
+    "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+    "language": "JavaScript",
+    "stars": 3816,
     "starsGained": 0,
-    "forks": 113,
-    "topics": [],
+    "forks": 121,
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "llm-agent"
+    ],
     "category": "AI/ML"
+  },
+  {
+    "owner": "rakanki911",
+    "name": "DLSS5-Swapper",
+    "url": "https://github.com/rakanki911/DLSS5-Swapper",
+    "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
+    "language": "JavaScript",
+    "stars": 3721,
+    "starsGained": 0,
+    "forks": 189,
+    "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "dsh-market",
+    "name": "dsh-market",
+    "url": "https://github.com/dsh-market/dsh-market",
+    "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+    "language": "TypeScript",
+    "stars": 3703,
+    "starsGained": 0,
+    "forks": 199,
+    "topics": [
+      "deepseek-harness",
+      "dsh-plugin",
+      "marketplace"
+    ],
+    "category": "前端"
   },
   {
     "owner": "wang2122",
@@ -267,7 +217,7 @@
     "url": "https://github.com/wang2122/sprix-sage-router",
     "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
     "language": "Python",
-    "stars": 3668,
+    "stars": 3686,
     "starsGained": 0,
     "forks": 422,
     "topics": [
@@ -283,20 +233,16 @@
     "category": "AI/ML"
   },
   {
-    "owner": "dsh-market",
-    "name": "dsh-market",
-    "url": "https://github.com/dsh-market/dsh-market",
-    "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-    "language": "TypeScript",
-    "stars": 3628,
+    "owner": "EvoMap",
+    "name": "AutoResearch",
+    "url": "https://github.com/EvoMap/AutoResearch",
+    "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
+    "language": "Python",
+    "stars": 3675,
     "starsGained": 0,
-    "forks": 194,
-    "topics": [
-      "deepseek-harness",
-      "dsh-plugin",
-      "marketplace"
-    ],
-    "category": "前端"
+    "forks": 237,
+    "topics": [],
+    "category": "AI/ML"
   },
   {
     "owner": "yetone",
@@ -304,21 +250,9 @@
     "url": "https://github.com/yetone/cumora",
     "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
     "language": "TypeScript",
-    "stars": 3552,
+    "stars": 3568,
     "starsGained": 0,
-    "forks": 454,
-    "topics": [],
-    "category": "前端"
-  },
-  {
-    "owner": "rakanki911",
-    "name": "DLSS5-Swapper",
-    "url": "https://github.com/rakanki911/DLSS5-Swapper",
-    "description": "DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across games and supported emulators. It features automatic game detection, optional drive scanning, DLSS5-Feeder for compatible titles without native DLSS, emulator support, and compatibility with DirectX 9/10/11/12, Vulkan, and OpenGL.",
-    "language": "JavaScript",
-    "stars": 3526,
-    "starsGained": 0,
-    "forks": 179,
+    "forks": 457,
     "topics": [],
     "category": "前端"
   },
@@ -328,23 +262,11 @@
     "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
     "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
     "language": "TypeScript",
-    "stars": 3498,
+    "stars": 3500,
     "starsGained": 0,
-    "forks": 3608,
+    "forks": 3612,
     "topics": [],
     "category": "前端"
-  },
-  {
-    "owner": "EvoMap",
-    "name": "AutoResearch",
-    "url": "https://github.com/EvoMap/AutoResearch",
-    "description": "AI/ML research agents from idea to paper-ready evidence. An EvoMap open-source project.",
-    "language": "Python",
-    "stars": 3179,
-    "starsGained": 0,
-    "forks": 209,
-    "topics": [],
-    "category": "AI/ML"
   },
   {
     "owner": "ashemag",
@@ -352,9 +274,9 @@
     "url": "https://github.com/ashemag/human-atlas",
     "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
     "language": "TypeScript",
-    "stars": 3132,
+    "stars": 3219,
     "starsGained": 0,
-    "forks": 760,
+    "forks": 785,
     "topics": [],
     "category": "前端"
   },
@@ -364,9 +286,9 @@
     "url": "https://github.com/yanliudesign/mono-color-skill",
     "description": "One-ink editorial print image skill — warm paper, halftone photography, active negative space, and restrained typography.",
     "language": "Python",
-    "stars": 3006,
+    "stars": 3025,
     "starsGained": 0,
-    "forks": 78,
+    "forks": 79,
     "topics": [
       "agent-skill",
       "ai-agent",
@@ -384,48 +306,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "cordiverse",
-    "name": "paper",
-    "url": "https://github.com/cordiverse/paper",
-    "description": "A Programming Paradigm for Spatiotemporal Composability",
-    "language": "",
-    "stars": 2978,
-    "starsGained": 0,
-    "forks": 140,
-    "topics": [],
-    "category": "其他"
-  },
-  {
-    "owner": "ccch1mneyyy",
-    "name": "dsh-TUI",
-    "url": "https://github.com/ccch1mneyyy/dsh-TUI",
-    "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-    "language": "TypeScript",
-    "stars": 2950,
-    "starsGained": 0,
-    "forks": 176,
-    "topics": [
-      "claude-code",
-      "coding-agent",
-      "deepseek",
-      "deepseek-harness",
-      "dsh-plugin",
-      "ink",
-      "react",
-      "terminal",
-      "tui"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "anthropics",
     "name": "commerce-agents",
     "url": "https://github.com/anthropics/commerce-agents",
     "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
     "language": "Python",
-    "stars": 2714,
+    "stars": 2751,
     "starsGained": 0,
-    "forks": 500,
+    "forks": 512,
     "topics": [],
     "category": "AI/ML"
   },
@@ -435,9 +323,9 @@
     "url": "https://github.com/ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
     "language": "Python",
-    "stars": 2548,
+    "stars": 2645,
     "starsGained": 0,
-    "forks": 175,
+    "forks": 179,
     "topics": [
       "agent-orchestration",
       "agentic-ai",
@@ -456,7 +344,7 @@
     "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
     "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
     "language": "JavaScript",
-    "stars": 2546,
+    "stars": 2560,
     "starsGained": 0,
     "forks": 7,
     "topics": [
@@ -477,9 +365,9 @@
     "url": "https://github.com/Nanako0129/sepia",
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
     "language": "Python",
-    "stars": 2535,
+    "stars": 2558,
     "starsGained": 0,
-    "forks": 162,
+    "forks": 166,
     "topics": [
       "agent-skills",
       "ai-writing",
@@ -502,9 +390,9 @@
     "url": "https://github.com/tobi/walgit",
     "description": "",
     "language": "Rust",
-    "stars": 2478,
+    "stars": 2486,
     "starsGained": 0,
-    "forks": 144,
+    "forks": 145,
     "topics": [],
     "category": "工具"
   },
@@ -514,9 +402,9 @@
     "url": "https://github.com/Albert-Weasker/niubigeo",
     "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
     "language": "TypeScript",
-    "stars": 2316,
+    "stars": 2356,
     "starsGained": 0,
-    "forks": 89,
+    "forks": 91,
     "topics": [],
     "category": "前端"
   },
@@ -526,9 +414,9 @@
     "url": "https://github.com/nateherkai/scroll-craft",
     "description": "An agent skill for building premium, immersive, scroll-driven websites. Works with Codex, Claude Code, and other coding agents. Also available as a Claude Code plugin.",
     "language": "JavaScript",
-    "stars": 2314,
+    "stars": 2348,
     "starsGained": 0,
-    "forks": 343,
+    "forks": 350,
     "topics": [
       "accessibility",
       "agent-skills",
@@ -549,36 +437,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "elie222",
-    "name": "rakazo",
-    "url": "https://github.com/elie222/rakazo",
-    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
-    "language": "TypeScript",
-    "stars": 2243,
-    "starsGained": 0,
-    "forks": 388,
-    "topics": [
-      "ai-agents",
-      "chatgpt",
-      "docker",
-      "electron",
-      "expo",
-      "grok",
-      "llm",
-      "self-hosted",
-      "typescript"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "MeteorNOX",
     "name": "DeepSeek-Balance-Whale-Widget",
     "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
     "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
     "language": "JavaScript",
-    "stars": 2100,
+    "stars": 2198,
     "starsGained": 0,
-    "forks": 80,
+    "forks": 81,
     "topics": [
       "cordis",
       "deepseek",
@@ -598,38 +464,11 @@
     "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub",
     "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
     "language": "Python",
-    "stars": 2067,
+    "stars": 2097,
     "starsGained": 0,
-    "forks": 2568,
+    "forks": 2581,
     "topics": [],
     "category": "AI/ML"
-  },
-  {
-    "owner": "xoreaxeaxeax",
-    "name": "skitter-creek-bath-salts",
-    "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-    "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
-    "language": "C",
-    "stars": 2010,
-    "starsGained": 0,
-    "forks": 158,
-    "topics": [],
-    "category": "工具"
-  },
-  {
-    "owner": "Small-tailqwq",
-    "name": "dsh-deep-whale",
-    "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
-    "description": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
-    "language": "TypeScript",
-    "stars": 2002,
-    "starsGained": 0,
-    "forks": 57,
-    "topics": [
-      "dsh",
-      "dsh-plugin"
-    ],
-    "category": "前端"
   },
   {
     "owner": "kacperkapusciak",
@@ -637,11 +476,31 @@
     "url": "https://github.com/kacperkapusciak/goldie",
     "description": "✨ agentic app store previews and screenshots",
     "language": "TypeScript",
-    "stars": 1999,
+    "stars": 2018,
     "starsGained": 0,
-    "forks": 169,
+    "forks": 172,
     "topics": [],
     "category": "前端"
+  },
+  {
+    "owner": "dsh-tauri-desk",
+    "name": "deepseek-harness-desktop",
+    "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
+    "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
+    "language": "TypeScript",
+    "stars": 1957,
+    "starsGained": 0,
+    "forks": 128,
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "desktop",
+      "dsh",
+      "dsh-desktop",
+      "dsh-plugin",
+      "tauri"
+    ],
+    "category": "AI/ML"
   },
   {
     "owner": "duty1g",
@@ -649,7 +508,7 @@
     "url": "https://github.com/duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
     "language": "Zig",
-    "stars": 1928,
+    "stars": 1939,
     "starsGained": 0,
     "forks": 194,
     "topics": [
@@ -676,34 +535,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "dsh-tauri-desk",
-    "name": "deepseek-harness-desktop",
-    "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
-    "description": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-    "language": "TypeScript",
-    "stars": 1911,
-    "starsGained": 0,
-    "forks": 128,
-    "topics": [
-      "deepseek",
-      "deepseek-harness",
-      "desktop",
-      "dsh",
-      "dsh-desktop",
-      "dsh-plugin",
-      "tauri"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "omacom",
     "name": "try-omarchy",
     "url": "https://github.com/omacom/try-omarchy",
     "description": "Run Omarchy on MacOS without any setup.",
     "language": "Swift",
-    "stars": 1880,
+    "stars": 1923,
     "starsGained": 0,
-    "forks": 91,
+    "forks": 96,
     "topics": [
       "aarch64",
       "apple-silicon",
@@ -720,16 +559,16 @@
     "category": "DevOps"
   },
   {
-    "owner": "diudiu-tech",
-    "name": "delivery-harness",
-    "url": "https://github.com/diudiu-tech/delivery-harness",
-    "description": "AI harness reference implementation for on-demand delivery workflows",
-    "language": "Java",
-    "stars": 1768,
+    "owner": "sdli1995",
+    "name": "dlssg_for_sm86",
+    "url": "https://github.com/sdli1995/dlssg_for_sm86",
+    "description": "Here is a dlssg for RTX30 Series GPU ",
+    "language": "",
+    "stars": 1874,
     "starsGained": 0,
-    "forks": 59,
+    "forks": 113,
     "topics": [],
-    "category": "后端"
+    "category": "其他"
   },
   {
     "owner": "amosblomqvist",
@@ -737,9 +576,9 @@
     "url": "https://github.com/amosblomqvist/learn",
     "description": "My AI learning system.",
     "language": "TypeScript",
-    "stars": 1751,
+    "stars": 1799,
     "starsGained": 0,
-    "forks": 177,
+    "forks": 183,
     "topics": [],
     "category": "前端"
   },
@@ -749,9 +588,9 @@
     "url": "https://github.com/openai/NavierStokesAndEuler",
     "description": "Lean certificates accompanying Navier-Stokes and Euler results",
     "language": "Lean",
-    "stars": 1735,
+    "stars": 1783,
     "starsGained": 0,
-    "forks": 169,
+    "forks": 178,
     "topics": [],
     "category": "其他"
   },
@@ -761,9 +600,9 @@
     "url": "https://github.com/totec448-spec/chat-on-steroids",
     "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
     "language": "TypeScript",
-    "stars": 1708,
+    "stars": 1728,
     "starsGained": 0,
-    "forks": 237,
+    "forks": 241,
     "topics": [
       "automation",
       "chatgpt",
@@ -784,29 +623,11 @@
     "url": "https://github.com/vvxw/deploy-vercel",
     "description": "Install Command：npm install",
     "language": "JavaScript",
-    "stars": 1707,
+    "stars": 1727,
     "starsGained": 0,
-    "forks": 353,
+    "forks": 358,
     "topics": [],
     "category": "前端"
-  },
-  {
-    "owner": "google",
-    "name": "artemis",
-    "url": "https://github.com/google/artemis",
-    "description": "ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark.  Created by Google's Pixel-Test-Engineering (PTE) Fusion team.",
-    "language": "Python",
-    "stars": 1692,
-    "starsGained": 0,
-    "forks": 156,
-    "topics": [
-      "ai-agents",
-      "android",
-      "google",
-      "test-automation",
-      "testing"
-    ],
-    "category": "AI/ML"
   },
   {
     "owner": "ZSvirt",
@@ -814,9 +635,9 @@
     "url": "https://github.com/ZSvirt/zsvirt",
     "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
     "language": "Java",
-    "stars": 1664,
+    "stars": 1668,
     "starsGained": 0,
-    "forks": 303,
+    "forks": 305,
     "topics": [
       "cloud-native",
       "hypervisor",
@@ -835,14 +656,14 @@
     "category": "DevOps"
   },
   {
-    "owner": "zouyuxuan122",
+    "owner": "DSH-EAC",
     "name": "DSH-Desktop-EAC",
-    "url": "https://github.com/zouyuxuan122/DSH-Desktop-EAC",
+    "url": "https://github.com/DSH-EAC/DSH-Desktop-EAC",
     "description": "DeepSeek Harness Desktop (dsh-desktop). EAC: Embracing All Creation (揽尽万象). Bundled Node.js runtime with full dsh-CLI kernel, one-click startup, 10 built-in UI themes.",
     "language": "JavaScript",
-    "stars": 1622,
+    "stars": 1642,
     "starsGained": 0,
-    "forks": 61,
+    "forks": 62,
     "topics": [
       "ai-agent",
       "deepseek",
@@ -859,26 +680,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "N4darae",
-    "name": "anti-mage",
-    "url": "https://github.com/N4darae/anti-mage",
-    "description": "For detecting anti-detect browsers and spoofed profiles through runtime coherence analysis.",
-    "language": "Go",
-    "stars": 1591,
-    "starsGained": 0,
-    "forks": 89,
-    "topics": [],
-    "category": "后端"
-  },
-  {
     "owner": "jub0t",
     "name": "Concat",
     "url": "https://github.com/jub0t/Concat",
     "description": "Free & Open-Source CapCut replacement.",
     "language": "Rust",
-    "stars": 1582,
+    "stars": 1616,
     "starsGained": 0,
-    "forks": 148,
+    "forks": 152,
     "topics": [
       "audio-processor",
       "auto-caption",
@@ -901,5 +710,176 @@
       "whisper-cpp"
     ],
     "category": "工具"
+  },
+  {
+    "owner": "N4darae",
+    "name": "anti-mage",
+    "url": "https://github.com/N4darae/anti-mage",
+    "description": "For detecting anti-detect browsers and spoofed profiles through runtime coherence analysis.",
+    "language": "Go",
+    "stars": 1591,
+    "starsGained": 0,
+    "forks": 89,
+    "topics": [],
+    "category": "后端"
+  },
+  {
+    "owner": "yang0",
+    "name": "handraw-style",
+    "url": "https://github.com/yang0/handraw-style",
+    "description": "手绘风格编号画廊与双语提示词 Skill",
+    "language": "HTML",
+    "stars": 1530,
+    "starsGained": 0,
+    "forks": 195,
+    "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "Tencent",
+    "name": "WeMM-Embedding",
+    "url": "https://github.com/Tencent/WeMM-Embedding",
+    "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+    "language": "Python",
+    "stars": 1478,
+    "starsGained": 0,
+    "forks": 101,
+    "topics": [
+      "embedding-models",
+      "multimodal",
+      "multimodal-llm"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "vinzdg",
+    "name": "codenotch",
+    "url": "https://github.com/vinzdg/codenotch",
+    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+    "language": "Swift",
+    "stars": 1473,
+    "starsGained": 0,
+    "forks": 230,
+    "topics": [],
+    "category": "移动端"
+  },
+  {
+    "owner": "wide-trace",
+    "name": "open-higgsfield",
+    "url": "https://github.com/wide-trace/open-higgsfield",
+    "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+    "language": "TypeScript",
+    "stars": 1461,
+    "starsGained": 0,
+    "forks": 31,
+    "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "EverettFish",
+    "name": "holo-card-studio",
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+    "language": "Python",
+    "stars": 1450,
+    "starsGained": 0,
+    "forks": 208,
+    "topics": [],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "shadcn-ui",
+    "name": "cn",
+    "url": "https://github.com/shadcn-ui/cn",
+    "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
+    "language": "TypeScript",
+    "stars": 1422,
+    "starsGained": 0,
+    "forks": 15,
+    "topics": [
+      "clsx",
+      "cn",
+      "shadcn",
+      "tailwind-merge",
+      "tailwindcss"
+    ],
+    "category": "前端"
+  },
+  {
+    "owner": "jeremy-prt",
+    "name": "bloub",
+    "url": "https://github.com/jeremy-prt/bloub",
+    "description": "SVG recreation of the x.ai bot avatar. One shape morphing through 14 states, measured off the reference video frame by frame.",
+    "language": "TypeScript",
+    "stars": 1403,
+    "starsGained": 0,
+    "forks": 180,
+    "topics": [
+      "animation",
+      "avatar",
+      "morphing",
+      "svg",
+      "svg-animation",
+      "typescript",
+      "vue"
+    ],
+    "category": "前端"
+  },
+  {
+    "owner": "xzf-thu",
+    "name": "VoiceMem",
+    "url": "https://github.com/xzf-thu/VoiceMem",
+    "description": "Infrastructure for the next generation of voice agents, designed to provide universal memory. It is divided into a left brain and a right brain, storing information and emotions respectively, while a fully streaming architecture eliminates latency at the fundamental level.",
+    "language": "Python",
+    "stars": 1377,
+    "starsGained": 0,
+    "forks": 101,
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "application",
+      "audio-streaming",
+      "genai",
+      "llm",
+      "long-term-memory",
+      "memory",
+      "memory-management",
+      "python",
+      "voice-agent",
+      "voice-assistant"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "Edge0-AI",
+    "name": "Edge0",
+    "url": "https://github.com/Edge0-AI/Edge0",
+    "description": "",
+    "language": "Python",
+    "stars": 1370,
+    "starsGained": 0,
+    "forks": 110,
+    "topics": [],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "cbrock84",
+    "name": "headcount",
+    "url": "https://github.com/cbrock84/headcount",
+    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "language": "Markdown",
+    "stars": 1359,
+    "starsGained": 0,
+    "forks": 209,
+    "topics": [
+      "agent-marketplace",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-plugin",
+      "claude-skills",
+      "mcp"
+    ],
+    "category": "AI/ML"
   }
 ]
