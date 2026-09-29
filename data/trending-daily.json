@@ -1,42 +1,13 @@
 [
   {
-    "owner": "paperclipai",
-    "name": "paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "description": "The open-source app everyone uses to manage agents at work",
-    "language": "TypeScript",
-    "stars": 90792,
-    "starsGained": 2401,
-    "forks": 15730,
-    "topics": [],
-    "category": "前端"
-  },
-  {
-    "owner": "vectorize-io",
-    "name": "hindsight",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "description": "Hindsight: Agent Memory That Learns",
-    "language": "Python",
-    "stars": 38437,
-    "starsGained": 4520,
-    "forks": 5028,
-    "topics": [
-      "agentic-ai",
-      "memory",
-      "agents",
-      "ai-memory"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "debpalash",
     "name": "VoiceStudio",
     "url": "https://github.com/debpalash/VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "language": "Python",
-    "stars": 40883,
-    "starsGained": 3086,
-    "forks": 4855,
+    "stars": 45220,
+    "starsGained": 3221,
+    "forks": 5176,
     "topics": [
       "tts",
       "voice-cloning",
@@ -62,66 +33,80 @@
     "category": "AI/ML"
   },
   {
-    "owner": "rohitg00",
-    "name": "ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "description": "Learn it. Build it. Ship it for others.",
+    "owner": "paperclipai",
+    "name": "paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "stars": 93397,
+    "starsGained": 3197,
+    "forks": 15937,
+    "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "vectorize-io",
+    "name": "hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "description": "Hindsight: Agent Memory That Learns",
     "language": "Python",
-    "stars": 59734,
-    "starsGained": 790,
-    "forks": 10283,
+    "stars": 41548,
+    "starsGained": 4561,
+    "forks": 5589,
     "topics": [
+      "agentic-ai",
+      "memory",
       "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
+      "ai-memory"
     ],
     "category": "AI/ML"
   },
   {
-    "owner": "InfinityLoop1308",
-    "name": "PipePipe",
-    "url": "https://github.com/InfinityLoop1308/PipePipe",
-    "description": "An open-source Android app to let you browse YouTube and other services freely.",
-    "language": "Shell",
-    "stars": 6693,
-    "starsGained": 242,
-    "forks": 225,
-    "topics": [
-      "android",
-      "mediaplayer",
-      "youtube",
-      "newpipe",
-      "sponsorblock"
-    ],
-    "category": "移动端"
+    "owner": "NawfalMotii79",
+    "name": "PLFM_RADAR",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "language": "PLSQL",
+    "stars": 25877,
+    "starsGained": 158,
+    "forks": 5895,
+    "topics": [],
+    "category": "其他"
   },
   {
-    "owner": "vercel-labs",
-    "name": "scriptc",
-    "url": "https://github.com/vercel-labs/scriptc",
-    "description": "TypeScript-to-Native Compiler",
-    "language": "TypeScript",
-    "stars": 5500,
-    "starsGained": 102,
-    "forks": 143,
-    "topics": [],
+    "owner": "cs341-illinois",
+    "name": "coursebook",
+    "url": "https://github.com/cs341-illinois/coursebook",
+    "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "language": "TeX",
+    "stars": 2646,
+    "starsGained": 195,
+    "forks": 245,
+    "topics": [
+      "wikibook",
+      "latex",
+      "awesome",
+      "c",
+      "linux",
+      "posix",
+      "system-programming"
+    ],
+    "category": "DevOps"
+  },
+  {
+    "owner": "byoungd",
+    "name": "up",
+    "url": "https://github.com/byoungd/up",
+    "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+    "language": "JavaScript",
+    "stars": 65046,
+    "starsGained": 327,
+    "forks": 6542,
+    "topics": [
+      "chinese",
+      "tutorial",
+      "english-learning"
+    ],
     "category": "前端"
   },
   {
@@ -130,9 +115,9 @@
     "url": "https://github.com/mvschwarz/openrig",
     "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
     "language": "TypeScript",
-    "stars": 1183,
-    "starsGained": 114,
-    "forks": 112,
+    "stars": 1922,
+    "starsGained": 734,
+    "forks": 147,
     "topics": [
       "agent-harness",
       "agent-orchestration",
@@ -154,9 +139,9 @@
     "url": "https://github.com/dream-num/univer",
     "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "language": "TypeScript",
-    "stars": 20780,
-    "starsGained": 895,
-    "forks": 1767,
+    "stars": 21452,
+    "starsGained": 1099,
+    "forks": 1813,
     "topics": [
       "data-table",
       "excel",
@@ -179,17 +164,5 @@
       "pdf"
     ],
     "category": "前端"
-  },
-  {
-    "owner": "willfaust",
-    "name": "Madeira",
-    "url": "https://github.com/willfaust/Madeira",
-    "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-    "language": "C",
-    "stars": 883,
-    "starsGained": 83,
-    "forks": 154,
-    "topics": [],
-    "category": "工具"
   }
 ]
