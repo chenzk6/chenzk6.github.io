@@ -5,9 +5,9 @@
     "url": "https://github.com/morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "language": "TypeScript",
-    "stars": 276194,
-    "starsGained": 239477,
-    "forks": 69583,
+    "stars": 294022,
+    "starsGained": 248962,
+    "forks": 74141,
     "topics": [
       "ai-agents",
       "binary-analysis",
@@ -33,14 +33,32 @@
     "category": "AI/ML"
   },
   {
+    "owner": "storytold",
+    "name": "artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 30829,
+    "starsGained": 20267,
+    "forks": 4896,
+    "topics": [
+      "3d-graphics",
+      "ai",
+      "aivideo",
+      "filmmaking",
+      "imagegeneration"
+    ],
+    "category": "AI/ML"
+  },
+  {
     "owner": "boykopovar",
     "name": "AnyPS5",
     "url": "https://github.com/boykopovar/AnyPS5",
     "description": "Tool for automatic PS5 executables porting to Linux and Windows",
     "language": "C++",
-    "stars": 38941,
-    "starsGained": 25174,
-    "forks": 3477,
+    "stars": 40076,
+    "starsGained": 20518,
+    "forks": 3589,
     "topics": [
       "dynamic-library",
       "game-porting",
@@ -53,16 +71,25 @@
     "category": "工具"
   },
   {
-    "owner": "mattpocock",
-    "name": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "language": "Shell",
-    "stars": 293144,
-    "starsGained": 12147,
-    "forks": 24579,
-    "topics": [],
-    "category": "DevOps"
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 56535,
+    "starsGained": 9024,
+    "forks": 3590,
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "category": "AI/ML"
   },
   {
     "owner": "heygen-com",
@@ -70,9 +97,9 @@
     "url": "https://github.com/heygen-com/hyperframes",
     "description": "Write HTML. Render video. Built for agents.",
     "language": "TypeScript",
-    "stars": 64746,
-    "starsGained": 5318,
-    "forks": 5830,
+    "stars": 65446,
+    "starsGained": 5601,
+    "forks": 5898,
     "topics": [
       "ai",
       "animation",
@@ -89,25 +116,16 @@
     "category": "AI/ML"
   },
   {
-    "owner": "cathrynlavery",
-    "name": "diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "language": "HTML",
-    "stars": 56053,
-    "starsGained": 10237,
-    "forks": 3546,
-    "topics": [
-      "agent-skills",
-      "claude-code",
-      "codex",
-      "data-visualization",
-      "diagrams",
-      "drawio",
-      "mermaid",
-      "svg"
-    ],
-    "category": "AI/ML"
+    "owner": "mattpocock",
+    "name": "skills",
+    "url": "https://github.com/mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 294256,
+    "starsGained": 11937,
+    "forks": 24668,
+    "topics": [],
+    "category": "DevOps"
   },
   {
     "owner": "NationalSecurityAgency",
@@ -115,9 +133,9 @@
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "language": "Java",
-    "stars": 89009,
-    "starsGained": 6614,
-    "forks": 9939,
+    "stars": 89752,
+    "starsGained": 7510,
+    "forks": 10035,
     "topics": [
       "software-analysis",
       "disassembler",
@@ -126,18 +144,67 @@
     "category": "后端"
   },
   {
+    "owner": "mksglu",
+    "name": "context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "stars": 30302,
+    "starsGained": 4207,
+    "forks": 2142,
+    "topics": [
+      "claude",
+      "claude-code",
+      "claude-code-plugins",
+      "mcp",
+      "skills",
+      "codex",
+      "copilot",
+      "opencode",
+      "antigravity",
+      "kiro",
+      "openclaw",
+      "claude-code-hooks",
+      "claude-code-skill",
+      "codex-cli",
+      "cursor-plugin",
+      "mcp-server",
+      "mcp-tools",
+      "pi-agent",
+      "zed-extension",
+      "context-mode"
+    ],
+    "category": "AI/ML"
+  },
+  {
     "owner": "ranxianglei",
     "name": "billion-context",
     "url": "https://github.com/ranxianglei/billion-context",
     "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
     "language": "TypeScript",
-    "stars": 1421,
-    "starsGained": 659,
-    "forks": 116,
+    "stars": 1572,
+    "starsGained": 779,
+    "forks": 124,
     "topics": [
       "dsh-plugin"
     ],
     "category": "前端"
+  },
+  {
+    "owner": "anthropics",
+    "name": "claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 40807,
+    "starsGained": 2328,
+    "forks": 4415,
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ],
+    "category": "AI/ML"
   },
   {
     "owner": "earthtojake",
@@ -145,9 +212,9 @@
     "url": "https://github.com/earthtojake/text-to-cad",
     "description": "Give your agent CAD superpowers.",
     "language": "Python",
-    "stars": 20773,
-    "starsGained": 2244,
-    "forks": 2052,
+    "stars": 21056,
+    "starsGained": 2286,
+    "forks": 2077,
     "topics": [
       "agents",
       "ai-agents",
@@ -160,60 +227,5 @@
       "stp"
     ],
     "category": "AI/ML"
-  },
-  {
-    "owner": "twostraws",
-    "name": "SwiftUI-Agent-Skill",
-    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-    "language": "",
-    "stars": 6123,
-    "starsGained": 900,
-    "forks": 222,
-    "topics": [],
-    "category": "其他"
-  },
-  {
-    "owner": "DuarteSantos8",
-    "name": "openGym",
-    "url": "https://github.com/DuarteSantos8/openGym",
-    "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
-    "language": "JavaScript",
-    "stars": 12481,
-    "starsGained": 4471,
-    "forks": 1530,
-    "topics": [
-      "bodyweight",
-      "docker",
-      "fitness",
-      "fitness-tracker",
-      "gym",
-      "health",
-      "nodejs",
-      "passkeys",
-      "progressive-web-applications",
-      "pwa",
-      "react",
-      "self-hosted",
-      "self-hosting",
-      "vite",
-      "webauthn",
-      "weightlifting",
-      "workout-tracker",
-      "mcp"
-    ],
-    "category": "DevOps"
-  },
-  {
-    "owner": "cursor",
-    "name": "plugins",
-    "url": "https://github.com/cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
-    "language": "TypeScript",
-    "stars": 11696,
-    "starsGained": 1214,
-    "forks": 1140,
-    "topics": [],
-    "category": "前端"
   }
 ]
