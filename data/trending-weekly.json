@@ -5,9 +5,9 @@
     "url": "https://github.com/morluto/rea",
     "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "language": "TypeScript",
-    "stars": 339460,
-    "starsGained": 201065,
-    "forks": 85681,
+    "stars": 350411,
+    "starsGained": 157631,
+    "forks": 88082,
     "topics": [
       "ai-agents",
       "binary-analysis",
@@ -33,48 +33,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "anthropics",
-    "name": "claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "language": "Python",
-    "stars": 43237,
-    "starsGained": 5441,
-    "forks": 4574,
-    "topics": [
-      "claude-code",
-      "mcp",
-      "skills"
-    ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "storytold",
-    "name": "artcraft",
-    "url": "https://github.com/storytold/artcraft",
-    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-    "language": "Rust",
-    "stars": 33900,
-    "starsGained": 13572,
-    "forks": 5367,
-    "topics": [
-      "3d-graphics",
-      "ai",
-      "aivideo",
-      "filmmaking",
-      "imagegeneration"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "MadsLorentzen",
     "name": "ai-job-search",
     "url": "https://github.com/MadsLorentzen/ai-job-search",
     "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
     "language": "Python",
-    "stars": 58068,
-    "starsGained": 9073,
-    "forks": 18384,
+    "stars": 61263,
+    "starsGained": 12848,
+    "forks": 19027,
     "topics": [
       "ai",
       "ai-agents",
@@ -92,40 +58,20 @@
     "category": "AI/ML"
   },
   {
-    "owner": "boykopovar",
-    "name": "AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
-    "language": "C++",
-    "stars": 44692,
-    "starsGained": 12389,
-    "forks": 4089,
+    "owner": "anthropics",
+    "name": "claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "stars": 43457,
+    "starsGained": 5650,
+    "forks": 4589,
     "topics": [
-      "dynamic-library",
-      "game-porting",
-      "ps5-tools",
-      "vulkan",
-      "spir-v",
-      "anyps5",
-      "ps5"
+      "claude-code",
+      "mcp",
+      "skills"
     ],
-    "category": "工具"
-  },
-  {
-    "owner": "NationalSecurityAgency",
-    "name": "ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "description": "Ghidra is a software reverse engineering (SRE) framework",
-    "language": "Java",
-    "stars": 91723,
-    "starsGained": 7152,
-    "forks": 10278,
-    "topics": [
-      "software-analysis",
-      "disassembler",
-      "reverse-engineering"
-    ],
-    "category": "后端"
+    "category": "AI/ML"
   },
   {
     "owner": "mksglu",
@@ -133,9 +79,9 @@
     "url": "https://github.com/mksglu/context-mode",
     "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
     "language": "TypeScript",
-    "stars": 31163,
-    "starsGained": 4224,
-    "forks": 2368,
+    "stars": 31438,
+    "starsGained": 3556,
+    "forks": 2212,
     "topics": [
       "claude",
       "claude-code",
@@ -161,49 +107,20 @@
     "category": "AI/ML"
   },
   {
-    "owner": "heygen-com",
-    "name": "hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "description": "Write HTML. Render video. Built for agents.",
-    "language": "TypeScript",
-    "stars": 67854,
-    "starsGained": 5945,
-    "forks": 6127,
+    "owner": "NationalSecurityAgency",
+    "name": "ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "stars": 92276,
+    "starsGained": 6184,
+    "forks": 10335,
     "topics": [
-      "ai",
-      "animation",
-      "ffmpeg",
-      "framework",
-      "gsap",
-      "html",
-      "mcp",
-      "puppeteer",
-      "rendering",
-      "typescript",
-      "video"
+      "software-analysis",
+      "disassembler",
+      "reverse-engineering"
     ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "cathrynlavery",
-    "name": "diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "language": "HTML",
-    "stars": 58584,
-    "starsGained": 6638,
-    "forks": 3768,
-    "topics": [
-      "agent-skills",
-      "claude-code",
-      "codex",
-      "data-visualization",
-      "diagrams",
-      "drawio",
-      "mermaid",
-      "svg"
-    ],
-    "category": "AI/ML"
+    "category": "后端"
   },
   {
     "owner": "K-Dense-AI",
@@ -211,9 +128,9 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "language": "Python",
-    "stars": 53027,
-    "starsGained": 4355,
-    "forks": 4692,
+    "stars": 53343,
+    "starsGained": 4549,
+    "forks": 4712,
     "topics": [
       "ai-scientist",
       "bioinformatics",
@@ -236,16 +153,32 @@
     "category": "AI/ML"
   },
   {
-    "owner": "cursor",
-    "name": "plugins",
-    "url": "https://github.com/cursor/plugins",
-    "description": "Cursor plugin specification and official plugins",
+    "owner": "heygen-com",
+    "name": "hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
     "language": "TypeScript",
-    "stars": 13113,
-    "starsGained": 1975,
-    "forks": 1287,
-    "topics": [],
-    "category": "前端"
+    "stars": 68657,
+    "starsGained": 5994,
+    "forks": 6207,
+    "topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "ai-agents",
+      "claude-code",
+      "html-to-video",
+      "motion-graphics",
+      "video-editor"
+    ],
+    "category": "AI/ML"
   },
   {
     "owner": "debpalash",
@@ -253,9 +186,9 @@
     "url": "https://github.com/debpalash/VoiceStudio",
     "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "language": "Python",
-    "stars": 77869,
-    "starsGained": 17291,
-    "forks": 8538,
+    "stars": 79303,
+    "starsGained": 17057,
+    "forks": 8718,
     "topics": [
       "tts",
       "voice-cloning",
@@ -280,34 +213,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "YuJunZhiXue",
-    "name": "dsh-purge",
-    "url": "https://github.com/YuJunZhiXue/dsh-purge",
-    "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
-    "language": "JavaScript",
-    "stars": 9617,
-    "starsGained": 2933,
-    "forks": 1849,
-    "topics": [
-      "dsh-plugin",
-      "dsh-plugins",
-      "llm-jailbreak",
-      "harness-jailbreak",
-      "jailbreak",
-      "deepseek",
-      "deepseek-harness"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "ruvnet",
     "name": "ruflo",
     "url": "https://github.com/ruvnet/ruflo",
     "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "language": "TypeScript",
-    "stars": 77352,
-    "starsGained": 2543,
-    "forks": 9116,
+    "stars": 77962,
+    "starsGained": 3143,
+    "forks": 9170,
     "topics": [
       "swarm",
       "agentic-ai",
@@ -329,6 +242,124 @@
       "harness",
       "dsh-plugin",
       "claude"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "android",
+    "name": "skills",
+    "url": "https://github.com/android/skills",
+    "description": "",
+    "language": "Kotlin",
+    "stars": 9079,
+    "starsGained": 1255,
+    "forks": 588,
+    "topics": [
+      "skills"
+    ],
+    "category": "移动端"
+  },
+  {
+    "owner": "boykopovar",
+    "name": "AnyPS5",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 45725,
+    "starsGained": 11169,
+    "forks": 4200,
+    "topics": [
+      "dynamic-library",
+      "game-porting",
+      "ps5-tools",
+      "vulkan",
+      "spir-v",
+      "anyps5",
+      "ps5"
+    ],
+    "category": "工具"
+  },
+  {
+    "owner": "cursor",
+    "name": "plugins",
+    "url": "https://github.com/cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "language": "TypeScript",
+    "stars": 13283,
+    "starsGained": 2040,
+    "forks": 1308,
+    "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "cathrynlavery",
+    "name": "diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 59141,
+    "starsGained": 5473,
+    "forks": 3802,
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "storytold",
+    "name": "artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 34691,
+    "starsGained": 10287,
+    "forks": 5493,
+    "topics": [
+      "3d-graphics",
+      "ai",
+      "aivideo",
+      "filmmaking",
+      "imagegeneration"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "wshobson",
+    "name": "agents",
+    "url": "https://github.com/wshobson/agents",
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+    "language": "Python",
+    "stars": 41335,
+    "starsGained": 665,
+    "forks": 4397,
+    "topics": [
+      "anthropic",
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "cursor",
+      "cursor-rules",
+      "mcp",
+      "multi-agent",
+      "opencode",
+      "claude-code",
+      "antigravity",
+      "claude",
+      "claude-skills",
+      "subagents",
+      "codex",
+      "claude-code-marketplace",
+      "claude-code-plugin",
+      "github-copilot",
+      "pi-coding-agent",
+      "coding-agents"
     ],
     "category": "AI/ML"
   }
