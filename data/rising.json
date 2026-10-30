@@ -1,33 +1,13 @@
 [
   {
-    "owner": "storytold",
-    "name": "photocraft",
-    "url": "https://github.com/storytold/photocraft",
-    "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
-    "language": "Rust",
-    "stars": 74534,
-    "starsGained": 0,
-    "forks": 13171,
-    "topics": [
-      "art",
-      "image-editing",
-      "image-editing-software",
-      "image-editor",
-      "images",
-      "photo-editing",
-      "rust"
-    ],
-    "category": "工具"
-  },
-  {
     "owner": "Gathin23",
     "name": "cleanyourtv",
     "url": "https://github.com/Gathin23/cleanyourtv",
     "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
     "language": "Python",
-    "stars": 44254,
+    "stars": 45794,
     "starsGained": 0,
-    "forks": 5411,
+    "forks": 5624,
     "topics": [
       "adb",
       "adblock",
@@ -55,9 +35,9 @@
     "url": "https://github.com/deepseek-ai/DeepInfer",
     "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
     "language": "Python",
-    "stars": 24058,
+    "stars": 24350,
     "starsGained": 0,
-    "forks": 2869,
+    "forks": 2927,
     "topics": [],
     "category": "AI/ML"
   },
@@ -67,9 +47,9 @@
     "url": "https://github.com/wheresryan22/anatomy",
     "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
     "language": "JavaScript",
-    "stars": 22276,
+    "stars": 22743,
     "starsGained": 0,
-    "forks": 1828,
+    "forks": 1870,
     "topics": [
       "agent-skill",
       "open-source",
@@ -84,32 +64,11 @@
     "url": "https://github.com/google-research/harness2",
     "description": "",
     "language": "Python",
-    "stars": 21120,
+    "stars": 21378,
     "starsGained": 0,
-    "forks": 2093,
+    "forks": 2118,
     "topics": [],
     "category": "AI/ML"
-  },
-  {
-    "owner": "storytold",
-    "name": "pdfcraft",
-    "url": "https://github.com/storytold/pdfcraft",
-    "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
-    "language": "Rust",
-    "stars": 18508,
-    "starsGained": 0,
-    "forks": 7004,
-    "topics": [
-      "document-processing",
-      "documents",
-      "pdf",
-      "pdf-generation",
-      "pdf-processing",
-      "pdf-tools",
-      "pdf-viewer",
-      "rust"
-    ],
-    "category": "工具"
   },
   {
     "owner": "openai",
@@ -117,30 +76,11 @@
     "url": "https://github.com/openai/math",
     "description": "",
     "language": "Lean",
-    "stars": 16869,
+    "stars": 17084,
     "starsGained": 0,
-    "forks": 1910,
+    "forks": 1924,
     "topics": [],
     "category": "其他"
-  },
-  {
-    "owner": "storytold",
-    "name": "filmcraft",
-    "url": "https://github.com/storytold/filmcraft",
-    "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
-    "language": "Rust",
-    "stars": 16769,
-    "starsGained": 0,
-    "forks": 6953,
-    "topics": [
-      "art",
-      "rust",
-      "video",
-      "video-editing",
-      "video-editor",
-      "video-processing"
-    ],
-    "category": "工具"
   },
   {
     "owner": "storytold",
@@ -148,29 +88,10 @@
     "url": "https://github.com/storytold/wordcraft",
     "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
     "language": "Rust",
-    "stars": 16504,
+    "stars": 16652,
     "starsGained": 0,
-    "forks": 4531,
+    "forks": 4559,
     "topics": [],
-    "category": "工具"
-  },
-  {
-    "owner": "storytold",
-    "name": "lightcraft",
-    "url": "https://github.com/storytold/lightcraft",
-    "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
-    "language": "Rust",
-    "stars": 14995,
-    "starsGained": 0,
-    "forks": 5755,
-    "topics": [
-      "art",
-      "photography",
-      "raw",
-      "raw-editor",
-      "raw-processing",
-      "rust"
-    ],
     "category": "工具"
   },
   {
@@ -179,9 +100,9 @@
     "url": "https://github.com/Zagitta/gpu-unlock",
     "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
     "language": "C",
-    "stars": 12571,
+    "stars": 13208,
     "starsGained": 0,
-    "forks": 1234,
+    "forks": 1292,
     "topics": [],
     "category": "工具"
   },
@@ -191,9 +112,9 @@
     "url": "https://github.com/tangency-labs/solidcraft",
     "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
     "language": "Rust",
-    "stars": 11746,
+    "stars": 12126,
     "starsGained": 0,
-    "forks": 1504,
+    "forks": 1572,
     "topics": [
       "3d-modeling",
       "brep",
@@ -208,57 +129,15 @@
     "category": "AI/ML"
   },
   {
-    "owner": "storytold",
-    "name": "vectorcraft",
-    "url": "https://github.com/storytold/vectorcraft",
-    "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
-    "language": "Rust",
-    "stars": 10957,
-    "starsGained": 0,
-    "forks": 5308,
-    "topics": [
-      "art",
-      "rust",
-      "rust-lang",
-      "svg",
-      "svg-editor",
-      "vector-graphics"
-    ],
-    "category": "工具"
-  },
-  {
     "owner": "seedds",
     "name": "nxnative",
     "url": "https://github.com/seedds/nxnative",
     "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
-    "language": "Objective-C",
-    "stars": 9211,
-    "starsGained": 0,
-    "forks": 1469,
-    "topics": [],
-    "category": "移动端"
-  },
-  {
-    "owner": "rehan-remade",
-    "name": "universal-modder",
-    "url": "https://github.com/rehan-remade/universal-modder",
-    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
     "language": "Python",
-    "stars": 9167,
+    "stars": 9888,
     "starsGained": 0,
-    "forks": 1019,
-    "topics": [
-      "age-of-empires",
-      "claude-code",
-      "claude-code-plugin",
-      "fal",
-      "game-assets",
-      "game-modding",
-      "mcp",
-      "modding",
-      "reverse-engineering",
-      "tmodloader"
-    ],
+    "forks": 1595,
+    "topics": [],
     "category": "AI/ML"
   },
   {
@@ -267,9 +146,9 @@
     "url": "https://github.com/storytold/effectcraft",
     "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
     "language": "Rust",
-    "stars": 8114,
+    "stars": 8177,
     "starsGained": 0,
-    "forks": 4315,
+    "forks": 4342,
     "topics": [
       "art",
       "compositing",
@@ -285,9 +164,9 @@
     "url": "https://github.com/pengchujin/aerial-tv",
     "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
     "language": "Kotlin",
-    "stars": 7537,
+    "stars": 7873,
     "starsGained": 0,
-    "forks": 628,
+    "forks": 656,
     "topics": [],
     "category": "移动端"
   },
@@ -297,9 +176,9 @@
     "url": "https://github.com/storytold/cadcraft",
     "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
     "language": "Rust",
-    "stars": 7131,
+    "stars": 7209,
     "starsGained": 0,
-    "forks": 3084,
+    "forks": 3106,
     "topics": [],
     "category": "工具"
   },
@@ -309,11 +188,33 @@
     "url": "https://github.com/storytold/gridcraft",
     "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
     "language": "Rust",
-    "stars": 6752,
+    "stars": 6835,
     "starsGained": 0,
-    "forks": 3124,
+    "forks": 3153,
     "topics": [],
     "category": "工具"
+  },
+  {
+    "owner": "Jakeschincariol",
+    "name": "replica-skill",
+    "url": "https://github.com/Jakeschincariol/replica-skill",
+    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "language": "Python",
+    "stars": 6523,
+    "starsGained": 0,
+    "forks": 1158,
+    "topics": [
+      "agent",
+      "agent-skills",
+      "app-clone",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "indie-hacker",
+      "reverse-engineering",
+      "saas"
+    ],
+    "category": "AI/ML"
   },
   {
     "owner": "ly05010419",
@@ -321,9 +222,9 @@
     "url": "https://github.com/ly05010419/MacNativeGames",
     "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
     "language": "C",
-    "stars": 6343,
+    "stars": 6492,
     "starsGained": 0,
-    "forks": 925,
+    "forks": 949,
     "topics": [
       "apple-silicon",
       "arm64",
@@ -341,36 +242,14 @@
     "category": "移动端"
   },
   {
-    "owner": "Jakeschincariol",
-    "name": "replica-skill",
-    "url": "https://github.com/Jakeschincariol/replica-skill",
-    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-    "language": "Python",
-    "stars": 6327,
-    "starsGained": 0,
-    "forks": 1115,
-    "topics": [
-      "agent",
-      "agent-skills",
-      "app-clone",
-      "claude",
-      "claude-code",
-      "claude-skills",
-      "indie-hacker",
-      "reverse-engineering",
-      "saas"
-    ],
-    "category": "AI/ML"
-  },
-  {
     "owner": "ARahim3",
     "name": "DigUp",
     "url": "https://github.com/ARahim3/DigUp",
     "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
     "language": "Swift",
-    "stars": 5988,
+    "stars": 6022,
     "starsGained": 0,
-    "forks": 461,
+    "forks": 465,
     "topics": [
       "embeddinggemma",
       "embeddings",
@@ -395,10 +274,30 @@
     "url": "https://github.com/alchaincyf/huashu-art-motion",
     "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
     "language": "JavaScript",
-    "stars": 5705,
+    "stars": 5786,
     "starsGained": 0,
-    "forks": 581,
+    "forks": 585,
     "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "HeyPuter",
+    "name": "everything",
+    "url": "https://github.com/HeyPuter/everything",
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "language": "JavaScript",
+    "stars": 5653,
+    "starsGained": 0,
+    "forks": 627,
+    "topics": [
+      "adobe",
+      "cad",
+      "microsoft",
+      "office",
+      "photoshop",
+      "saas",
+      "spreadsheet"
+    ],
     "category": "前端"
   },
   {
@@ -407,9 +306,9 @@
     "url": "https://github.com/simbasjungles/free-my-tv",
     "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
     "language": "Java",
-    "stars": 5273,
+    "stars": 5414,
     "starsGained": 0,
-    "forks": 880,
+    "forks": 904,
     "topics": [
       "android-tv",
       "claude-code",
@@ -426,34 +325,14 @@
     "category": "AI/ML"
   },
   {
-    "owner": "HeyPuter",
-    "name": "everything",
-    "url": "https://github.com/HeyPuter/everything",
-    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-    "language": "JavaScript",
-    "stars": 5038,
-    "starsGained": 0,
-    "forks": 578,
-    "topics": [
-      "adobe",
-      "cad",
-      "microsoft",
-      "office",
-      "photoshop",
-      "saas",
-      "spreadsheet"
-    ],
-    "category": "前端"
-  },
-  {
     "owner": "xiaoyang111222",
     "name": "cn-math-taxonomy",
     "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
     "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
     "language": "Python",
-    "stars": 4985,
+    "stars": 5344,
     "starsGained": 0,
-    "forks": 1281,
+    "forks": 1358,
     "topics": [
       "chinese",
       "curriculum",
@@ -475,14 +354,26 @@
     "category": "AI/ML"
   },
   {
+    "owner": "unclebob",
+    "name": "ub-mode",
+    "url": "https://github.com/unclebob/ub-mode",
+    "description": "",
+    "language": "",
+    "stars": 4952,
+    "starsGained": 0,
+    "forks": 273,
+    "topics": [],
+    "category": "其他"
+  },
+  {
     "owner": "storytold",
     "name": "designcraft",
     "url": "https://github.com/storytold/designcraft",
     "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
     "language": "Rust",
-    "stars": 4910,
+    "stars": 4937,
     "starsGained": 0,
-    "forks": 3391,
+    "forks": 3408,
     "topics": [
       "art",
       "layout",
@@ -497,9 +388,9 @@
     "url": "https://github.com/jhaizhou-ops/d2r-mobile",
     "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
     "language": "C",
-    "stars": 4844,
+    "stars": 4885,
     "starsGained": 0,
-    "forks": 1282,
+    "forks": 1286,
     "topics": [
       "android",
       "compatibility-layer",
@@ -519,32 +410,25 @@
     "category": "移动端"
   },
   {
-    "owner": "zhongerxin",
-    "name": "iPhone-use",
-    "url": "https://github.com/zhongerxin/iPhone-use",
-    "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+    "owner": "rddmwmddr",
+    "name": "android-ad-cleaner",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
     "language": "Python",
-    "stars": 4749,
+    "stars": 4850,
     "starsGained": 0,
-    "forks": 476,
-    "topics": [],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "T-Auto",
-    "name": "dsh-ops",
-    "url": "https://github.com/T-Auto/dsh-ops",
-    "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-    "language": "JavaScript",
-    "stars": 4719,
-    "starsGained": 0,
-    "forks": 146,
+    "forks": 439,
     "topics": [
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugins"
+      "adb",
+      "ai-agent",
+      "android",
+      "coloros",
+      "debloat",
+      "hyperos",
+      "magicos",
+      "originos"
     ],
-    "category": "前端"
+    "category": "AI/ML"
   },
   {
     "owner": "QingYunA",
@@ -552,9 +436,9 @@
     "url": "https://github.com/QingYunA/answer-me-with-html",
     "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
     "language": "JavaScript",
-    "stars": 4608,
+    "stars": 4811,
     "starsGained": 0,
-    "forks": 314,
+    "forks": 328,
     "topics": [
       "agent-skill",
       "ai-agent",
@@ -573,37 +457,32 @@
     "category": "AI/ML"
   },
   {
-    "owner": "rddmwmddr",
-    "name": "android-ad-cleaner",
-    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "language": "Python",
-    "stars": 4487,
+    "owner": "T-Auto",
+    "name": "dsh-ops",
+    "url": "https://github.com/T-Auto/dsh-ops",
+    "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+    "language": "JavaScript",
+    "stars": 4806,
     "starsGained": 0,
-    "forks": 405,
+    "forks": 150,
     "topics": [
-      "adb",
-      "ai-agent",
-      "android",
-      "coloros",
-      "debloat",
-      "hyperos",
-      "magicos",
-      "originos"
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins"
     ],
-    "category": "AI/ML"
+    "category": "前端"
   },
   {
-    "owner": "JustAResearcher",
-    "name": "gpu-unlock-ada",
-    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-    "language": "C",
-    "stars": 4451,
+    "owner": "zhongerxin",
+    "name": "iPhone-use",
+    "url": "https://github.com/zhongerxin/iPhone-use",
+    "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+    "language": "Python",
+    "stars": 4775,
     "starsGained": 0,
-    "forks": 571,
+    "forks": 478,
     "topics": [],
-    "category": "工具"
+    "category": "AI/ML"
   },
   {
     "owner": "Fei2411",
@@ -611,9 +490,9 @@
     "url": "https://github.com/Fei2411/DS-Bot",
     "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
     "language": "JavaScript",
-    "stars": 4448,
+    "stars": 4565,
     "starsGained": 0,
-    "forks": 397,
+    "forks": 408,
     "topics": [
       "bot",
       "deepseek-harness",
@@ -623,14 +502,50 @@
     "category": "前端"
   },
   {
+    "owner": "JustAResearcher",
+    "name": "gpu-unlock-ada",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "language": "C",
+    "stars": 4541,
+    "starsGained": 0,
+    "forks": 580,
+    "topics": [],
+    "category": "工具"
+  },
+  {
+    "owner": "horizon-rust",
+    "name": "horizon",
+    "url": "https://github.com/horizon-rust/horizon",
+    "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
+    "language": "Rust",
+    "stars": 4434,
+    "starsGained": 0,
+    "forks": 412,
+    "topics": [
+      "differential-testing",
+      "game-engine",
+      "gamedev",
+      "linux",
+      "minecraft",
+      "minecraft-java",
+      "reimplementation",
+      "rust",
+      "voxel",
+      "vulkan",
+      "wgpu"
+    ],
+    "category": "游戏"
+  },
+  {
     "owner": "storytold",
     "name": "deckcraft",
     "url": "https://github.com/storytold/deckcraft",
     "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
     "language": "Rust",
-    "stars": 4388,
+    "stars": 4426,
     "starsGained": 0,
-    "forks": 2513,
+    "forks": 2535,
     "topics": [],
     "category": "工具"
   },
@@ -640,9 +555,9 @@
     "url": "https://github.com/storytold/craft-launcher",
     "description": "The Craft App Launcher",
     "language": "Rust",
-    "stars": 4270,
+    "stars": 4329,
     "starsGained": 0,
-    "forks": 1330,
+    "forks": 1338,
     "topics": [],
     "category": "工具"
   },
@@ -652,9 +567,9 @@
     "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
     "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
     "language": "C",
-    "stars": 4073,
+    "stars": 4109,
     "starsGained": 0,
-    "forks": 539,
+    "forks": 543,
     "topics": [
       "ai-agent",
       "airplay",
@@ -669,16 +584,16 @@
     "category": "AI/ML"
   },
   {
-    "owner": "unclebob",
-    "name": "ub-mode",
-    "url": "https://github.com/unclebob/ub-mode",
-    "description": "",
-    "language": "",
-    "stars": 4031,
+    "owner": "amosblomqvist",
+    "name": "learnharness",
+    "url": "https://github.com/amosblomqvist/learnharness",
+    "description": "Agent harness for learning difficult things.",
+    "language": "TypeScript",
+    "stars": 4094,
     "starsGained": 0,
-    "forks": 221,
+    "forks": 632,
     "topics": [],
-    "category": "其他"
+    "category": "前端"
   },
   {
     "owner": "Folkbench",
@@ -686,7 +601,7 @@
     "url": "https://github.com/Folkbench/folkbench",
     "description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
     "language": "Rust",
-    "stars": 3883,
+    "stars": 3961,
     "starsGained": 0,
     "forks": 21,
     "topics": [
@@ -713,11 +628,30 @@
     "url": "https://github.com/storytold/soundcraft",
     "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
     "language": "Rust",
-    "stars": 3875,
+    "stars": 3900,
     "starsGained": 0,
-    "forks": 2402,
+    "forks": 2414,
     "topics": [],
     "category": "工具"
+  },
+  {
+    "owner": "obsidianmd",
+    "name": "pele",
+    "url": "https://github.com/obsidianmd/pele",
+    "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 ",
+    "language": "TypeScript",
+    "stars": 3900,
+    "starsGained": 0,
+    "forks": 117,
+    "topics": [
+      "charts",
+      "diagramming",
+      "diagrams",
+      "mermaid",
+      "mermaid-diagrams",
+      "mermaidjs"
+    ],
+    "category": "前端"
   },
   {
     "owner": "nullmoth",
@@ -725,7 +659,7 @@
     "url": "https://github.com/nullmoth/nvidia-macos-driver",
     "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
     "language": "Rust",
-    "stars": 3855,
+    "stars": 3889,
     "starsGained": 0,
     "forks": 378,
     "topics": [
@@ -739,47 +673,20 @@
     "category": "工具"
   },
   {
-    "owner": "horizon-rust",
-    "name": "horizon",
-    "url": "https://github.com/horizon-rust/horizon",
-    "description": "Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.",
+    "owner": "storytold",
+    "name": "figcraft",
+    "url": "https://github.com/storytold/figcraft",
+    "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
     "language": "Rust",
-    "stars": 3853,
+    "stars": 3852,
     "starsGained": 0,
-    "forks": 303,
+    "forks": 1501,
     "topics": [
-      "differential-testing",
-      "game-engine",
-      "gamedev",
-      "linux",
-      "minecraft",
-      "minecraft-java",
-      "reimplementation",
+      "design",
       "rust",
-      "voxel",
-      "vulkan",
-      "wgpu"
+      "tools"
     ],
-    "category": "游戏"
-  },
-  {
-    "owner": "obsidianmd",
-    "name": "pele",
-    "url": "https://github.com/obsidianmd/pele",
-    "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 ",
-    "language": "TypeScript",
-    "stars": 3818,
-    "starsGained": 0,
-    "forks": 116,
-    "topics": [
-      "charts",
-      "diagramming",
-      "diagrams",
-      "mermaid",
-      "mermaid-diagrams",
-      "mermaidjs"
-    ],
-    "category": "前端"
+    "category": "工具"
   },
   {
     "owner": "Arekejoker",
@@ -787,9 +694,9 @@
     "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
     "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
     "language": "Python",
-    "stars": 3808,
+    "stars": 3831,
     "starsGained": 0,
-    "forks": 670,
+    "forks": 674,
     "topics": [
       "agent-skill",
       "comfyui",
@@ -801,44 +708,28 @@
     "category": "AI/ML"
   },
   {
-    "owner": "storytold",
-    "name": "figcraft",
-    "url": "https://github.com/storytold/figcraft",
-    "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
-    "language": "Rust",
-    "stars": 3755,
-    "starsGained": 0,
-    "forks": 1458,
-    "topics": [
-      "design",
-      "rust",
-      "tools"
-    ],
-    "category": "工具"
-  },
-  {
     "owner": "deadinside28",
     "name": "bloodborne_pc",
     "url": "https://github.com/deadinside28/bloodborne_pc",
     "description": "Bloodborne (v1.09) running natively on Linux and Windows: the game's x86-64 code runs as is, GPU side translated to Vulkan; FSR 4 / DLSS, co-op (BBSC). Bring your own dump.",
     "language": "C++",
-    "stars": 3717,
+    "stars": 3760,
     "starsGained": 0,
-    "forks": 1045,
+    "forks": 1055,
     "topics": [],
     "category": "工具"
   },
   {
-    "owner": "amosblomqvist",
-    "name": "learnharness",
-    "url": "https://github.com/amosblomqvist/learnharness",
-    "description": "Agent harness for learning difficult things.",
-    "language": "TypeScript",
-    "stars": 3701,
+    "owner": "interplains",
+    "name": "Zero-Breach-Toolkit",
+    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+    "language": "Python",
+    "stars": 3682,
     "starsGained": 0,
-    "forks": 572,
+    "forks": 391,
     "topics": [],
-    "category": "前端"
+    "category": "AI/ML"
   },
   {
     "owner": "aicodeking",
@@ -846,9 +737,9 @@
     "url": "https://github.com/aicodeking/leanrea",
     "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
     "language": "Python",
-    "stars": 3492,
+    "stars": 3675,
     "starsGained": 0,
-    "forks": 535,
+    "forks": 559,
     "topics": [],
     "category": "AI/ML"
   },
@@ -858,9 +749,9 @@
     "url": "https://github.com/openfilm/openfilm",
     "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
     "language": "TypeScript",
-    "stars": 3434,
+    "stars": 3646,
     "starsGained": 0,
-    "forks": 323,
+    "forks": 343,
     "topics": [
       "ai-video",
       "claude-code",
@@ -874,14 +765,35 @@
     "category": "AI/ML"
   },
   {
+    "owner": "anhao",
+    "name": "ai-pose-gallery-zh",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "language": "HTML",
+    "stars": 3473,
+    "starsGained": 0,
+    "forks": 900,
+    "topics": [
+      "ai-art",
+      "chinese",
+      "cloudflare-pages",
+      "gallery",
+      "i18n",
+      "pose",
+      "reference-images",
+      "static-site"
+    ],
+    "category": "前端"
+  },
+  {
     "owner": "kingcharleslzy-ai",
     "name": "dsh-purge",
     "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
     "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
     "language": "JavaScript",
-    "stars": 3293,
+    "stars": 3436,
     "starsGained": 0,
-    "forks": 1732,
+    "forks": 1805,
     "topics": [
       "agent-tools",
       "backup",
@@ -896,5 +808,72 @@
       "rollback"
     ],
     "category": "AI/ML"
+  },
+  {
+    "owner": "AhmadHassan-BTed",
+    "name": ".github",
+    "url": "https://github.com/AhmadHassan-BTed/.github",
+    "description": "",
+    "language": "",
+    "stars": 3385,
+    "starsGained": 0,
+    "forks": 0,
+    "topics": [],
+    "category": "其他"
+  },
+  {
+    "owner": "Jakeschincariol",
+    "name": "day-trader-skill",
+    "url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "language": "Python",
+    "stars": 3344,
+    "starsGained": 0,
+    "forks": 769,
+    "topics": [
+      "backtesting",
+      "claude",
+      "claude-skills",
+      "day-trading",
+      "stock-market"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "liseami",
+    "name": "CCBaga",
+    "url": "https://github.com/liseami/CCBaga",
+    "description": "",
+    "language": "Rust",
+    "stars": 3287,
+    "starsGained": 0,
+    "forks": 342,
+    "topics": [],
+    "category": "工具"
+  },
+  {
+    "owner": "designfuchen",
+    "name": "word-atlas",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "language": "TypeScript",
+    "stars": 3281,
+    "starsGained": 0,
+    "forks": 720,
+    "topics": [
+      "chinese",
+      "dataset",
+      "english-learning",
+      "flashcards",
+      "fsrs",
+      "ielts",
+      "language-learning",
+      "pwa",
+      "react",
+      "spaced-repetition",
+      "vocabulary",
+      "webgl"
+    ],
+    "category": "前端"
   }
 ]
