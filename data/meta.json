@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-30T07:09:45+00:00",
+  "updatedAt": "2026-10-31T07:00:18+00:00",
   "risingSinceDays": 30,
   "counts": {
-    "daily": 11,
-    "weekly": 11,
+    "daily": 15,
+    "weekly": 13,
     "rising": 50,
     "hot": 50
   }
