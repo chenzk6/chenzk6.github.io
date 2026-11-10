@@ -1,65 +1,13 @@
 [
   {
-    "owner": "vercel-labs",
-    "name": "agent-browser",
-    "url": "https://github.com/vercel-labs/agent-browser",
-    "description": "Browser automation CLI for AI agents",
-    "language": "Rust",
-    "stars": 47037,
-    "starsGained": 190,
-    "forks": 3223,
-    "topics": [],
-    "category": "工具"
-  },
-  {
-    "owner": "cloudflare",
-    "name": "security-audit-skill",
-    "url": "https://github.com/cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "language": "JavaScript",
-    "stars": 66071,
-    "starsGained": 2085,
-    "forks": 4299,
-    "topics": [],
-    "category": "前端"
-  },
-  {
-    "owner": "google",
-    "name": "skills",
-    "url": "https://github.com/google/skills",
-    "description": "Agent Skills for Google products and technologies",
-    "language": "Python",
-    "stars": 23538,
-    "starsGained": 443,
-    "forks": 1967,
-    "topics": [
-      "google",
-      "googlecloud",
-      "skills"
-    ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "mattpocock",
-    "name": "skills",
-    "url": "https://github.com/mattpocock/skills",
-    "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "language": "Shell",
-    "stars": 317963,
-    "starsGained": 1100,
-    "forks": 26605,
-    "topics": [],
-    "category": "DevOps"
-  },
-  {
     "owner": "anthropics",
     "name": "skills",
     "url": "https://github.com/anthropics/skills",
     "description": "Public repository for Agent Skills",
     "language": "Python",
-    "stars": 188963,
-    "starsGained": 390,
-    "forks": 22275,
+    "stars": 191517,
+    "starsGained": 1038,
+    "forks": 22479,
     "topics": [
       "agent-skills"
     ],
@@ -71,31 +19,11 @@
     "url": "https://github.com/meta/astryx",
     "description": "An open source design system that's fully customizable and agent ready",
     "language": "TypeScript",
-    "stars": 14785,
-    "starsGained": 96,
-    "forks": 1211,
+    "stars": 21018,
+    "starsGained": 3278,
+    "forks": 1589,
     "topics": [],
     "category": "前端"
-  },
-  {
-    "owner": "prometheus",
-    "name": "prometheus",
-    "url": "https://github.com/prometheus/prometheus",
-    "description": "The Prometheus monitoring system and time series database.",
-    "language": "Go",
-    "stars": 67498,
-    "starsGained": 322,
-    "forks": 11011,
-    "topics": [
-      "monitoring",
-      "metrics",
-      "alerting",
-      "graphing",
-      "time-series",
-      "prometheus",
-      "hacktoberfest"
-    ],
-    "category": "DevOps"
   },
   {
     "owner": "sherlock-project",
@@ -103,9 +31,9 @@
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "stars": 101159,
-    "starsGained": 1766,
-    "forks": 11955,
+    "stars": 107885,
+    "starsGained": 4267,
+    "forks": 12469,
     "topics": [
       "osint",
       "reconnaissance",
@@ -127,14 +55,139 @@
     "category": "DevOps"
   },
   {
+    "owner": "google-deepmind",
+    "name": "mujoco",
+    "url": "https://github.com/google-deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C++",
+    "stars": 17095,
+    "starsGained": 574,
+    "forks": 2016,
+    "topics": [
+      "robotics",
+      "physics",
+      "mujoco"
+    ],
+    "category": "工具"
+  },
+  {
+    "owner": "anthropics",
+    "name": "claude-quickstarts",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "language": "Python",
+    "stars": 20188,
+    "starsGained": 551,
+    "forks": 3329,
+    "topics": [],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "garrytan",
+    "name": "gbrain",
+    "url": "https://github.com/garrytan/gbrain",
+    "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+    "language": "TypeScript",
+    "stars": 32344,
+    "starsGained": 216,
+    "forks": 4781,
+    "topics": [],
+    "category": "前端"
+  },
+  {
+    "owner": "vercel-labs",
+    "name": "agent-browser",
+    "url": "https://github.com/vercel-labs/agent-browser",
+    "description": "Browser automation CLI for AI agents",
+    "language": "Rust",
+    "stars": 48766,
+    "starsGained": 916,
+    "forks": 3321,
+    "topics": [],
+    "category": "工具"
+  },
+  {
+    "owner": "ruvnet",
+    "name": "RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "stars": 103710,
+    "starsGained": 172,
+    "forks": 13432,
+    "topics": [
+      "wifi",
+      "esp32",
+      "monitoring",
+      "rf",
+      "wifi-security",
+      "self-learning",
+      "firmware",
+      "pose-estimation",
+      "spatial-intelligence",
+      "home-assistant",
+      "home-automation",
+      "networking",
+      "claude",
+      "iot",
+      "react",
+      "typescript",
+      "claude-code",
+      "mcp",
+      "webassembly"
+    ],
+    "category": "DevOps"
+  },
+  {
+    "owner": "ZhuLinsen",
+    "name": "daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "language": "Python",
+    "stars": 69318,
+    "starsGained": 506,
+    "forks": 56503,
+    "topics": [
+      "aigc",
+      "llm",
+      "quant",
+      "quantitative-trading",
+      "a-stock",
+      "ai-agent",
+      "quantitative-finance"
+    ],
+    "category": "AI/ML"
+  },
+  {
+    "owner": "homeassistant-ai",
+    "name": "ha-mcp",
+    "url": "https://github.com/homeassistant-ai/ha-mcp",
+    "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+    "language": "Python",
+    "stars": 6222,
+    "starsGained": 31,
+    "forks": 304,
+    "topics": [
+      "ai",
+      "claude",
+      "hacs",
+      "home-assistant",
+      "home-automation",
+      "llm",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "category": "AI/ML"
+  },
+  {
     "owner": "milind-soni",
     "name": "OpenMausBot",
     "url": "https://github.com/milind-soni/OpenMausBot",
     "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
     "language": "TypeScript",
-    "stars": 17349,
-    "starsGained": 1955,
-    "forks": 2443,
+    "stars": 20178,
+    "starsGained": 1587,
+    "forks": 2759,
     "topics": [
       "ai-agents",
       "claude-code",
@@ -142,7 +195,6 @@
       "computer-use",
       "docker",
       "electron",
-      "expo",
       "self-hosted",
       "typescript",
       "grok-bot",
@@ -150,121 +202,5 @@
       "grok-bot-alternative"
     ],
     "category": "AI/ML"
-  },
-  {
-    "owner": "astral-sh",
-    "name": "ruff",
-    "url": "https://github.com/astral-sh/ruff",
-    "description": "An extremely fast Python linter and code formatter, written in Rust.",
-    "language": "Rust",
-    "stars": 51037,
-    "starsGained": 350,
-    "forks": 2634,
-    "topics": [
-      "linter",
-      "pep8",
-      "python",
-      "python3",
-      "rust",
-      "rustpython",
-      "static-analysis",
-      "static-code-analysis",
-      "style-guide",
-      "styleguide",
-      "ruff"
-    ],
-    "category": "工具"
-  },
-  {
-    "owner": "tailwindlabs",
-    "name": "tailwindcss",
-    "url": "https://github.com/tailwindlabs/tailwindcss",
-    "description": "A utility-first CSS framework for rapid UI development.",
-    "language": "TypeScript",
-    "stars": 98582,
-    "starsGained": 122,
-    "forks": 7119,
-    "topics": [
-      "tailwindcss",
-      "css",
-      "css-framework",
-      "postcss",
-      "functional-css",
-      "utility-classes",
-      "responsive"
-    ],
-    "category": "前端"
-  },
-  {
-    "owner": "mbillow",
-    "name": "localthings",
-    "url": "https://github.com/mbillow/localthings",
-    "description": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-    "language": "Python",
-    "stars": 1104,
-    "starsGained": 186,
-    "forks": 114,
-    "topics": [
-      "custom-component",
-      "hacs",
-      "hacs-integration",
-      "home-assistant",
-      "home-automation",
-      "samsung",
-      "smartthings",
-      "coap-protocol",
-      "coap-server",
-      "dtls"
-    ],
-    "category": "AI/ML"
-  },
-  {
-    "owner": "zed-industries",
-    "name": "zed",
-    "url": "https://github.com/zed-industries/zed",
-    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-    "language": "Rust",
-    "stars": 94366,
-    "starsGained": 1114,
-    "forks": 11558,
-    "topics": [
-      "text-editor",
-      "zed",
-      "gpui",
-      "rust-lang"
-    ],
-    "category": "工具"
-  },
-  {
-    "owner": "ranxianglei",
-    "name": "billion-context",
-    "url": "https://github.com/ranxianglei/billion-context",
-    "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-    "language": "TypeScript",
-    "stars": 4740,
-    "starsGained": 191,
-    "forks": 379,
-    "topics": [
-      "dsh-plugin"
-    ],
-    "category": "前端"
-  },
-  {
-    "owner": "dsx-ai-factory",
-    "name": "nvke",
-    "url": "https://github.com/dsx-ai-factory/nvke",
-    "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-    "language": "Go",
-    "stars": 622,
-    "starsGained": 123,
-    "forks": 95,
-    "topics": [
-      "bare-metal",
-      "cluster-api",
-      "gpu",
-      "kubernetes",
-      "nvidia"
-    ],
-    "category": "DevOps"
   }
 ]
